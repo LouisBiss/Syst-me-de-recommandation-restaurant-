@@ -14,25 +14,22 @@ driver.get("https://www.tripadvisor.fr/Restaurants-g187147-Paris_Ile_de_France.h
 
 
 liste_liens_resto=[]
-page=0
 
-while True:
-    time.sleep(1)
-    
+i=0
+while i <= 0:
+    time.sleep(2)
     liste_lien_html=driver.find_elements_by_xpath('//a[@class="bHGqj Cj b"]')
-    #liste_lien_html=driver.find_elements_by_class_name("bHGqj Cj b")
     for html in liste_lien_html:
         #print(class_lien)
         a=html.get_attribute('href')
         liste_liens_resto.append(a)
-      
-    if len(driver.find_elements_by_css_selector("a.nav next rndBtn ui_button primary taLnk"))>0:
-        page_suivante=driver.find_element_by_link_text("Suivant")
-        page_suivante.click()
-        page+=1
-        if page>3:
-            break
-        else:
-            break
+
+    page_suivante=driver.find_element_by_link_text("Suivant")
+    #page_suivante=driver.find_element_by_class_name("nav next rndBtn ui_button primary taLnk")
+    page_suivante.click()
+    print(i)
+    i=i+1
+
 driver.close()
+
 
