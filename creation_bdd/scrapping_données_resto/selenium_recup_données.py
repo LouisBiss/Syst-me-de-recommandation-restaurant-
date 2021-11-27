@@ -55,8 +55,8 @@ for lien in tqdm(liste_liens_resto):
     
     adr=driver.find_elements_by_css_selector("a.fhGHT")[1]
     adr=adr.text
-    arrd = re.findall(r'[750]//S*', adr) 
-    df['Arrondissement'].iloc[-1]=arrd
+    arrd = re.findall('[750]\w+', adr) 
+    df['Arrondissement'].iloc[-1]=arrd[0]
     
     sleep(1.1)
 
