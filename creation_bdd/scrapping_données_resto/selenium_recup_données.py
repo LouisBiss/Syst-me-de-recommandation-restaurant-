@@ -42,13 +42,20 @@ for lien in tqdm(liste_liens_resto):
     Nom_resto=Nom_resto.text                                #conserve uniquement le text
     df['Nom_Resto'].iloc[-1]=Nom_resto                      #ajoute le nom à la dernière ligne de la colonne
     
-    Type_cuisine=driver.find_elements_by_css_selector("div.cfvAV")[1]
-    Type_cuisine=Type_cuisine.text
-    df['Type_Cuisine'].iloc[-1]=Type_cuisine
-    
-    Type_repas=driver.find_elements_by_css_selector("div.cfvAV")[2]
-    Type_repas=Type_repas.text
-    df['Type_Repas'].iloc[-1]=Type_repas
+    Type_cuisine=driver.find_elements_by_css_selector("div.cfvAV")
+    if len(Type_cuisine)==1:
+        df['Type_Cuisine'].iloc[-1]=Type_cuisine[0].text
+    else:
+        df['Type_Cuisine'].iloc[-1]=Type_cuisine[1].text
+
+    Type_repas=driver.find_elements_by_css_selector("div.cfvAV")  
+    #remplacer par xpath  #Type_repas=driver.find_elements_by_xpath("/html/body/div[2]/div[2]/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div[3]/div[2]") 
+    #Le nombre de classe contenant le meme nom varie, changeant la loclaisation du type de reaps. 
+    if len(Type_repas) == 3 :
+        df['Type_Repas'].iloc[-1]=Type_repas[2].text
+    else:
+        df['Type_Repas'].iloc[-1]=Type_repas[1].text
+
     
     #Prix=driver.find_elements_by_css_selector("div.cfvAV")[0]
     
@@ -61,8 +68,9 @@ for lien in tqdm(liste_liens_resto):
     sleep(1.1)
 
 
-#print(Type_Cuisine.text)
-#print(test.text)
+
 driver.close()
+
+df.to_csv('données_resto.csv')
 
 
