@@ -1,0 +1,1231 @@
+,Nom_Resto,Type_Cuisine,Type_Repas,Arrondissement
+0,ASPIC,"Française, Européenne, Moderne, Saine",Dîner,75009
+1,Il Etait Un Square,Végétariens bienvenus,Déjeuner,54
+2,New Jawad Longchamp,"Végétariens bienvenus, Choix végétaliens, Halal, Plats sans gluten","Déjeuner, Dîner",75116
+3,Restaurant Pizzamore,"Italienne, Pizza, Saine","Déjeuner, Dîner",75014
+4,Mayfair Garden,"Indienne, Saine, Pakistanaise, Moderne","Halal, Végétariens bienvenus, Plats sans gluten",75116
+5,Bus Toqué,"Française, Moderne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75008
+6,Boutary,"Française, Fruits de mer & Poisson, Brasserie gastronomique, Européenne, Fusion","Végétariens bienvenus, Plats sans gluten",75006
+7,Les Apotres de Pigalle,"Sud-américaine, Bar à bières, Européenne",Végétariens bienvenus,75018
+8,La Table de Colette,"Française, Européenne, Saine","Déjeuner, Dîner",75005
+9,Bao & ME,"Asiatique, Fusion, Saine, Cuisine de rue (street food)","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75009
+10,Perlimpinpin,"Française, Moderne","Déjeuner, Dîner, Ouvert tard, Boissons",75017
+11,Bistrot Kinzo,"Japonaise, Fusion japonaise","Déjeuner, Dîner",75009
+12,Bistrot Instinct,"Française, Européenne, Saine","Déjeuner, Dîner",75003
+13,Karavaki Au Jardin Du Luxembourg,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75005
+14,Gosier,Dîner,"Réservations, Terrasse, Places assises, Sert de l'alcool, Service de table",75009
+15,Le Bistrot de Madeleine,"Déjeuner, Dîner","Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table, Stationnement dans la rue, Bières & Vins, Wi-Fi gratuit, Chiens acceptés",75009
+16,Pur' - Jean-François Rouquette,"Française, Européenne, Saine","Choix végétaliens, Plats sans gluten",75002
+17,La MiN,"Française, Internationale, Brasserie gastronomique, Européenne, Saine",Végétariens bienvenus,75011
+18,Domenico's,"Italienne, Méditerranéenne, Sicilienne, Italie du Sud, Campanie, Pouilles","Végétariens bienvenus, Plats sans gluten",75009
+19,Ya Bayte,"Libanaise, Méditerranéenne, Moyen-Orient","Déjeuner, Dîner, Boissons",75005
+20,Da Giuseppe,"Italienne, Pizza, Saine, Romana, Latium, Sicilienne, Italie du Centre, Italie du Sud","Déjeuner, Dîner, Boissons",76
+21,Les Bariolés de Maud,Française,"Végétariens bienvenus, Choix végétaliens",75009
+22,Pizzeria Arrivederci,"Italienne, Pizza, Méditerranéenne, Européenne, Saine, Napolitaine, Campanie, Sicilienne, Italie du Sud","Végétariens bienvenus, Choix végétaliens",75005
+23,Pardi,"Française, Méditerranéenne, Européenne",Choix végétaliens,75010
+24,Contraste,"Française, Saine, Diner","Déjeuner, Dîner",75008
+25,Poni,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75009
+26,114 Faubourg,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75008
+27,Au P'tit Curieux,"Italienne, Française, Brasserie gastronomique, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75010
+28,Coin-OP Table,"Française, Japonaise, Asiatique, Taïwanaise","Végétariens bienvenus, Plats sans gluten",75009
+29,O’bergine,"Française, Libanaise, Saine, Moyen-Orient","Déjeuner, Dîner, Boissons",75002
+30,Epicure,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner",75008
+31,JJ Beaumarchais,"Française, Européenne, Fusion, Saine","Déjeuner, Dîner",75011
+32,Pianovins,"Française, Saine","Déjeuner, Dîner",75011
+33,La Réserve Du Terroir,"Bar à vins, Bars-restaurants, Française","Déjeuner, Dîner, Ouvert tard, Boissons",75004
+34,Le Faham by Kelly Rangama,"Française, Saine, Cajun & Créole, Fusion","Déjeuner, Dîner",08
+35,Kei Restaurant,"Française, Saine","Française, Saine",75001
+36,Bistro V,"Française, Diner, Européenne",Dîner,56
+37,Le Village Russe,Africaine,"Dîner, Ouvert tard, Boissons",75013
+38,Signature Montmartre,"Française, Asiatique, Coréenne, Fusion, Européenne, Saine","Végétariens bienvenus, Plats sans gluten",75018
+39,Frog & Underground,"Bar à bières, Bar, Pub, Américaine",Végétariens bienvenus,76
+40,Chez Pitou,"Française, Européenne, Saine","Déjeuner, Dîner",75018
+41,La Cantine de Mémé,Française,"Végétariens bienvenus, Choix végétaliens",75017
+42,L'Oliveto Paris,"Italienne, Méditerranéenne, Européenne, Saine, Napolitaine, Campanie, Toscane, Romana, Latium, Sicilienne, Ligurienne, Italie du Nord, Italie du Centre, Italie du Sud","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75006
+43,Frog Hop House,"Américaine, Bar, Pub, Bar à bières",Végétariens bienvenus,75002
+44,Petit Boutary,"Française, Européenne, Saine, Brasserie gastronomique","Végétariens bienvenus, Plats sans gluten",75017
+45,Frog XVI,"Américaine, Bar, Pub, Bar à bières","Végétariens bienvenus, Choix végétaliens",75116
+46,Café de Paris-Friedland,"Végétariens bienvenus, Plats sans gluten","Petit déjeuner, Déjeuner, Dîner, Ouvert tard",75008
+47,La Grotte de Chypre,"Méditerranéenne, Turque, Grecque, Moyen-Orient","Végétariens bienvenus, Choix végétaliens, Halal",75005
+48,Via Emilia,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Boissons",75009
+49,Aux Enfants Gates,"Déjeuner, Dîner","Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75014
+50,Terra Mia,"Italienne, Méditerranéenne, Napolitaine, Campanie, Italie du Sud","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75014
+51,Il Tronchetto,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75015
+52,Le jardin du Kashmir,"Végétariens bienvenus, Choix végétaliens, Halal","Déjeuner, Dîner, Ouvert tard",75017
+53,24 Le Restaurant,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75008
+54,LES EPICIERS,"Européenne, Bar à vins","Boissons, Dîner",75003
+55,Patchanka,"Barbecue/Grillades, Argentine, Sud-américaine, Latino","Végétariens bienvenus, Plats sans gluten",75011
+56,L'Archeste,"Française, Européenne","Déjeuner, Dîner",79
+57,Mian Fan,"Chinoise, Japonaise, Asiatique, Coréenne, Fusion, Thaï, Vietnamienne, Saine","Végétariens bienvenus, Choix végétaliens",75002
+58,L’Innocence,Française,"Déjeuner, Dîner",75009
+59,Cook' n Saj,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner",75006
+60,Alliance,"Française, Saine","Végétariens bienvenus, Choix végétaliens",75005
+61,Marche Ou Crêpe,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75020
+62,Source Infinie,"Française, Bar à vins, Brasserie gastronomique, Saine, Bars-restaurants","Déjeuner, Dîner, Boissons",75009
+63,India StreEAT,"Indienne, Saine, Cuisine de rue (street food)","Végétariens bienvenus, Choix végétaliens",05
+64,Le vent d'Armor,"Française, Fruits de mer & Poisson, Européenne, Saine",Plats sans gluten,75005
+65,Madito,Végétariens bienvenus,"Déjeuner, Dîner",75011
+66,Chez Ajia,"Asiatique, Taïwanaise","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75004
+67,Pastamore,"Italienne, Saine","Végétariens bienvenus, Choix végétaliens",75006
+68,LA TRATTORIA DELL'ISOLA,"Italienne, Pizza, Fruits de mer & Poisson, Européenne, Sarde, Italie du Sud","Végétariens bienvenus, Choix végétaliens",75009
+69,Restaurant Mumi,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75001
+70,Bar Italia Brasserie,"Italienne, Méditerranéenne, Saine","Végétariens bienvenus, Choix végétaliens",75009
+71,L'Orangerie - Four Seasons Hotel George V,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75008
+72,XV Burger,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",79
+73,Le Bistrot d'Yves,"Française, Européenne, Saine","Végétariens bienvenus, Choix végétaliens",75017
+74,La Veraison,"Française, Saine, Fusion",Végétariens bienvenus,75015
+75,La Grange Aux Canards,Française,"Déjeuner, Dîner, Boissons",75005
+76,Joyti Restaurant,Indienne,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75015
+77,Restaurant H,"Française, Européenne",Plats sans gluten,75004
+78,Picotte,"Française, Européenne, Saine",Végétariens bienvenus,75011
+79,Wine Therapy,"Française, Bar à vins, Européenne","Déjeuner, Dîner, Boissons",75009
+80,L'Arcane,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner",52
+81,Can Alegria Paris,"Française, Méditerranéenne, Européenne, Saine","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",73
+82,Midi 12,"Française, Européenne, Saine","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75009
+83,Gegeor,"Française, Européenne",Végétariens bienvenus,75009
+84,AlKaram,"Libanaise, Méditerranéenne, Saine, Moyen-Orient","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75015
+85,1000 & 1 Signes,"Marocaine, Moyen-Orient","Végétariens bienvenus, Choix végétaliens, Halal",76
+86,Chez Cleopatre,"Turque, Cuisine de rue (street food)","Végétariens bienvenus, Choix végétaliens, Halal",75009
+87,Sacrée fleur,"Française, Steakhouse, Européenne","Déjeuner, Dîner",50
+88,Savarin la Table,"Française, Moderne","Déjeuner, Dîner",75007
+89,Oinari Paris,"Japonaise, Fusion japonaise","Végétariens bienvenus, Choix végétaliens",75009
+90,Tra di Noi Vasco De Gama,"Italienne, Méditerranéenne, Sicilienne, Italie du Sud","Déjeuner, Dîner, Boissons",75015
+91,Mian Fan,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75014
+92,Restaurant L'INITIAL,"Française, Européenne",Plats sans gluten,75005
+93,Cezembre,"Française, Européenne, Saine","Déjeuner, Dîner",75006
+94,Hebe,"Française, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75005
+95,Savannah Cafe,"Libanaise, Méditerranéenne, Moyen-Orient","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75005
+96,La Pause Libanaise,"Libanaise, Méditerranéenne, Saine, Moyen-Orient","Végétariens bienvenus, Choix végétaliens",75008
+97,Seb'on,"Déjeuner, Dîner","Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75018
+98,Tadam Paris,Française,Végétariens bienvenus,75013
+99,Desvouges,Brasserie gastronomique,Végétariens bienvenus,75005
+100,Le Bélisaire,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75015
+101,Supernova,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Boissons",75003
+102,La Crete,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75005
+103,Le Cinq,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75008
+104,The Frog Revolution,"Américaine, Bar, Pub, Bar à bières",Végétariens bienvenus,75004
+105,Comptoir Gourmet,"Italienne, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",51
+106,La Table d'Hami,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner",75005
+107,Flesh Restaurant Pigalle,Plats sans gluten,"Déjeuner, Dîner, Ouvert tard",75009
+108,La Réserve des Initiés,"Française, Brasserie gastronomique, Diner, Bar à vins, Bars-restaurants",Végétariens bienvenus,75011
+109,Les Freres Bretons,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75015
+110,A-TABLE,"Moyen-Orient, Perse, Arménienne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75020
+111,Le Cherine,"Libanaise, Méditerranéenne, Moyen-Orient, Grillades","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",74
+112,Zia,"Française, Américaine, Café","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75007
+113,Flesh Restaurant Canal Saint Martin,"Barbecue/Grillades, Steakhouse, Grillades",Plats sans gluten,75010
+114,L'Hommage,"Française, Européenne, Moderne",Végétariens bienvenus,75013
+115,Restaurant OXTE,"Déjeuner, Dîner","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75017
+116,Jimmy 2 Fois,"Italienne, Pizza, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens",75018
+117,RHINO ROUGE,"Barbecue/Grillades, Américaine, Steakhouse, Sud-Ouest américain, Cuisine de rue (street food)","Déjeuner, Dîner",75012
+118,Bistrot Rougemont,"Déjeuner, Dîner","Réservations, Places assises, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table",75009
+119,Le Perraudin,Française,"Végétariens bienvenus, Plats sans gluten",57
+120,Restaurant Biscotte,"Française, Saine, Internationale, Moderne, Brasserie gastronomique","Végétariens bienvenus, Plats sans gluten",75015
+121,Pop's,"Italienne, Française, Pizza, Saine, Méditerranéenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75016
+122,Buddha Restaurant,"Indienne, Saine, Népalaise","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75013
+123,La Bossue,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Petit déjeuner, Déjeuner, Brunch",75018
+124,Buzkashi,"Moyen-Orient, Perse, Afghane","Végétariens bienvenus, Choix végétaliens, Halal",75017
+125,Chez Gabrielle,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75017
+126,Johana's FISH & CHIPS,"Déjeuner, Dîner","Service de livraison, Plats à emporter, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75002
+127,Publisher,"Française, Irlandaise, Bar, Européenne, Pub, Britannique",Végétariens bienvenus,75008
+128,Sarté Restaurant,"Française, Saine, Moderne, Pub, Brasserie gastronomique, Bars-restaurants","Déjeuner, Dîner, Ouvert tard, Boissons",75018
+129,Arnaud Nicolas,"Française, Européenne, Traiteur, Brasserie gastronomique","Déjeuner, Dîner",75007
+130,Le Gabriel,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75008
+131,Oplato,"Française, Européenne, Bar à vins","Végétariens bienvenus, Choix végétaliens",75011
+132,La Bécane À Gaston,"Française, Européenne",Végétariens bienvenus,75010
+133,Happy Caffe,"Végétariens bienvenus, Choix végétaliens","Dîner, Petit déjeuner, Déjeuner, Brunch, Ouvert tard, Boissons",75001
+134,Le Bistrot d'Indochine,"Asiatique, Vietnamienne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75015
+135,Les Crêpes de Louis-Marie,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75005
+136,L'Atelier Saisonnier - Paris 9e,"Française, Saine",Végétariens bienvenus,58
+137,Restaurant eels,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner",75010
+138,Restaurant Gastronomique Louis,Végétariens bienvenus,"Déjeuner, Dîner",75009
+139,Petite fleur,"Française, Européenne","Déjeuner, Dîner",75018
+140,Le 217 Brasserie Restaurant,"Française, Européenne, Saine",Végétariens bienvenus,75012
+141,Les Passagers de Beyrouth,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75011
+142,Les Canailles,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75009
+143,JJ Restaurant,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75008
+144,TRADI,"Moderne, Française","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75002
+145,MARCLEE,"Coréenne, Japonaise, Asiatique, Thaï, Saine, Fusion","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75009
+146,Jackpot,"Française, Européenne, Saine","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75003
+147,Les Cuivres,"Française, Méditerranéenne",Végétariens bienvenus,75011
+148,FOODI Jia-Ba-Buay,"Asiatique, Taïwanaise","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75002
+149,Chez Arnaud,"Italienne, Française, Européenne, Saine","Végétariens bienvenus, Choix végétaliens",75019
+150,"Respiro, Trattoria - Pizzeria","Italienne, Pizza, Méditerranéenne, Sicilienne, Italie du Sud",Végétariens bienvenus,75005
+151,Le Reciproque,"Française, Européenne, Moderne",Végétariens bienvenus,75018
+152,La Bonne Excuse,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner",75007
+153,Casa Festa,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75001
+154,L'Annexe,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner",75018
+155,Ristorante Al Caratello,"Italienne, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75018
+156,Le Confidentiel,"Française, Européenne",Halal,75008
+157,Olive & Thym - Par Man'ouché,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75004
+158,Bustronome PARIS,"Française, Internationale, Européenne, Moderne, Saine","Végétariens bienvenus, Choix végétaliens",75116
+159,Le Lamarck,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75018
+160,Royal Dragon,"Chinoise, Japonaise, Asiatique, Vietnamienne","Végétariens bienvenus, Choix végétaliens",75014
+161,Gemini Odéon,"Italienne, Napolitaine, Campanie, Toscane, Romana, Latium, Sicilienne, Italie du Centre, Italie du Sud","Déjeuner, Dîner",75006
+162,Chào bà,"Asiatique, Vietnamienne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75013
+163,Sourire Le Restaurant,"Française, Européenne, Moderne","Déjeuner, Dîner",75013
+164,Papa Poule,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75011
+165,Grains Nobles et Plus,"Française, Européenne, Bar à vins","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75005
+166,L'Arôme,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75008
+167,Aux Délices du Liban,"Libanaise, Méditerranéenne, Moyen-Orient","Végétariens bienvenus, Choix végétaliens",75005
+168,Le 975,"Française, Européenne","Déjeuner, Dîner",75017
+169,L'Acolyte de L'Insolite,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75011
+170,La Trattoria Di Gio,"Italienne, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens",75001
+171,Mamie Bidoche,"Française, Saine, Grillades","Déjeuner, Dîner, Ouvert tard, Boissons",75011
+172,"L'Entente, Le British Brasserie","Britannique, Saine, Brasserie gastronomique","Végétariens bienvenus, Plats sans gluten",75002
+173,Phebe,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75017
+174,Redd,"Française, Bar à vins, Européenne",Végétariens bienvenus,75002
+175,Restaurant Friends & Family,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75009
+176,Il Pomod'oro,"Italienne, Pizza, Saine, Napolitaine, Campanie, Romana, Latium, Sicilienne, Italie du Centre, Italie du Sud","Végétariens bienvenus, Choix végétaliens",75005
+177,"Le Bon, La Butte",Française,Végétariens bienvenus,02
+178,Ze Kitchen Galerie,"Française, Européenne, Moderne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75006
+179,Huîtres et Saumons de Passy,"Française, Fruits de mer & Poisson, Européenne",Végétariens bienvenus,75016
+180,Assanabel,"Libanaise, Méditerranéenne, Saine, Moyen-Orient","Végétariens bienvenus, Choix végétaliens, Halal, Plats sans gluten",75010
+181,Le Florimond,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75007
+182,Virtus,"Française, Européenne, Moderne, Brasserie gastronomique","Déjeuner, Dîner",75012
+183,Le Goyavier,Cajun & Créole,"Dîner, Ouvert tard",75011
+184,Le Gros 7,"Méditerranéenne, Européenne",Végétariens bienvenus,75016
+185,Pane olio e pomodoro,"Italienne, Méditerranéenne, Européenne, Romana, Latium, Sarde, Italie du Centre, Italie du Sud","Végétariens bienvenus, Choix végétaliens",75011
+186,La Petite Rose des Sables,"Française, Européenne, Saine",Végétariens bienvenus,75010
+187,Bodega Potxolo,"Française, Méditerranéenne, Européenne, Espagnole","Déjeuner, Dîner",75011
+188,Restaurant La Pie Noir,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75005
+189,Le Clos Y,"Française, Japonaise, Européenne, Asiatique, Saine","Végétariens bienvenus, Plats sans gluten",75015
+190,Le Cabanon de la Butte,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner",75018
+191,Frog & Rosbif,"Bar, Britannique, Pub, Bar à bières",Végétariens bienvenus,75002
+192,Le Vieux Bistrot,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",54
+193,Sathees,"Saine, Soupes, Café, Internationale, Fusion","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75006
+194,Loubnane,"Libanaise, Saine","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75005
+195,Restaurant du Palais Royal,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75001
+196,Invictus,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75006
+197,La Crepe Rit Du Clown,"Française, Européenne, Saine","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75006
+198,chez delphine,"Française, Européenne",Végétariens bienvenus,75009
+199,Joe Burger,Végétariens bienvenus,"Déjeuner, Dîner",75005
+200,Chez Trassoudaine,"Déjeuner, Dîner, Brunch, Ouvert tard","Réservations, Salle privée, Places assises, Chaises hautes disponibles, Accès personnes handicapées, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table",75013
+201,Don Giovanni,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75004
+202,Couscous Maison Arc en Ciel,Bars-restaurants,"Végétariens bienvenus, Choix végétaliens, Halal",75013
+203,Lorette & Les Garçons,Française,"Déjeuner, Dîner, Boissons",75009
+204,Tour d'Argent,Française,Végétariens bienvenus,75005
+205,In Bocca al lupo,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75018
+206,Pierre Gagnaire,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75008
+207,CHANG,"Bar, Asiatique, Thaï, Fusion, Saine","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75001
+208,L'Aubergeade,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75012
+209,Papelli,"Pizza, Italienne, Européenne","Végétariens bienvenus, Choix végétaliens",75010
+210,Les Tables d'Augustin,"Française, Européenne, Moderne, Saine, Brasserie gastronomique","Déjeuner, Dîner",75017
+211,Pages,"Française, Moderne, Européenne",Végétariens bienvenus,75116
+212,Le Petit Amalfi,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75008
+213,Jeongane,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75015
+214,Le Sâotico,"Brasserie gastronomique, Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75002
+215,Chez Toinette,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",75018
+216,La Boite Aux Lettres,"Française, Européenne, Saine","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",08
+217,Papi Henri,"Française, Européenne",Végétariens bienvenus,75017
+218,Bien Ficelé,"Française, Européenne, Grillades, Barbecue/Grillades","Déjeuner, Dîner, Brunch, Ouvert tard, Boissons",51
+219,Restaurant Japonais La Marina,"Japonaise, Sushi, Asiatique, Grillades, Fusion japonaise","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75002
+220,Aux 2 Saveurs,Française,"Végétariens bienvenus, Choix végétaliens",75012
+221,La Verrière Paris,"Française, Japonaise, Européenne, Moderne","Petit déjeuner, Déjeuner, Dîner, Brunch, Boissons",75014
+222,Cantina Chic,"Italienne, Méditerranéenne, Européenne, Toscane, Romana, Latium, Italie du Centre","Végétariens bienvenus, Choix végétaliens",75017
+223,Mobster Diner,"Américaine, Restauration rapide, Internationale","Déjeuner, Dîner, Boissons",75005
+224,Crêperie Mad'eo,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75015
+225,Comme à La Campagne,Française,Végétariens bienvenus,75013
+226,Substance,"Française, Européenne, Saine","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75116
+227,La Scène Thélème,"Fusion, Française, Européenne, Moderne, Saine","Végétariens bienvenus, Plats sans gluten",75017
+228,Le Petit Champerret,"Déjeuner, Dîner","Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75017
+229,Les Trublions,"Française, Européenne, Moderne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75005
+230,Chez Pippo,"Italienne, Pizza, Méditerranéenne, Napolitaine, Campanie, Toscane, Romana, Latium, Italie du Centre","Végétariens bienvenus, Plats sans gluten",75007
+231,Pizzeria Mancini,"Italienne, Pizza, Européenne","Végétariens bienvenus, Choix végétaliens",75018
+232,Restaurant Mariette,"Française, Européenne, Saine","Végétariens bienvenus, Plats sans gluten",75007
+233,Neige d'été,"Déjeuner, Dîner","Réservations, Salle privée, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75015
+234,Le Bouclard,"Française, Européenne",Végétariens bienvenus,75018
+235,Kitchen Galerie Bis,"Française, Européenne, Fusion",Choix végétaliens,75006
+236,La Grande Ourse,"Déjeuner, Dîner","Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75014
+237,La Vache et Le Cuisinier,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75018
+238,Chez Marcel,"Française, Saine","Déjeuner, Dîner, Ouvert tard",75006
+239,Restaurant Pilgrim,"Française, Européenne","Déjeuner, Dîner",75015
+240,Restaurant Étude,Française,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75116
+241,le petit canard,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",75009
+242,La Vie d'Ange,"Française, Européenne",Végétariens bienvenus,75014
+243,Au P'tit Zinc,Végétariens bienvenus,"Petit déjeuner, Déjeuner, Dîner, Ouvert tard, Boissons",74
+244,Baffo,"Italienne, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75004
+245,Bears & Raccoons,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Boissons",75011
+246,A modo mio,"Italienne, Pizza, Méditerranéenne, Européenne, Napolitaine, Campanie, Toscane, Italie du Centre, Italie du Sud",Végétariens bienvenus,75004
+247,Bistrot Chez France,Française,"Végétariens bienvenus, Plats sans gluten",75007
+248,Le Poulbot,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75018
+249,Il Padrino,Végétariens bienvenus,"Dîner, Déjeuner, Ouvert tard",75018
+250,L'Accolade,Végétariens bienvenus,"Déjeuner, Dîner",08
+251,Soul Kitchen - FERMÉ,"Choix végétaliens, Plats sans gluten","Petit déjeuner, Brunch, Déjeuner, Boissons",75018
+252,Habesha,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75015
+253,Le Baron Rouge,"Française, Bar à vins","Déjeuner, Boissons",75012
+254,Le Sanglier Bleu,"Française, Européenne, Brasserie gastronomique",Végétariens bienvenus,02
+255,,,,
+256,Restaurant Chinois Di-Choulie A Paris,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75013
+257,Lao Chaleune,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75013
+258,RESTAURANT DE LA CORDONNERIE,"Française, Européenne","Déjeuner, Dîner",75001
+259,Le Clarence,"Diner, Française, Européenne, Moderne","Végétariens bienvenus, Plats sans gluten",75008
+260,Restaurant de la Tour,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75015
+261,L'Envie du Jour,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",06
+262,The Frog at Bercy Village,Pub,Végétariens bienvenus,75012
+263,L'Espadon,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard",75001
+264,Meating Corner,"Américaine, Café, Diner, Bars-restaurants","Végétariens bienvenus, Choix végétaliens",75004
+265,La Table Afghane,"Végétariens bienvenus, Choix végétaliens, Halal","Déjeuner, Dîner",07
+266,Terra Gourma,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",72
+267,L'Empreinte,"Française, Européenne",Végétariens bienvenus,75014
+268,Restaurant Karma,"Asiatique, Tibétaine","Végétariens bienvenus, Choix végétaliens",75012
+269,Archibon Bar à Vin,"Française, Bar à vins",Végétariens bienvenus,75009
+270,Chez Imogene,Française,Végétariens bienvenus,75011
+271,Little Breizh,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner",75006
+272,Paul Chene,"Française, Européenne",Végétariens bienvenus,75116
+273,PerBacco,"Italienne, Pizza, Méditerranéenne, Européenne","Déjeuner, Dîner",75002
+274,Les Petits Crus,Végétariens bienvenus,Dîner,75011
+275,Hao Long,Chinoise,"Végétariens bienvenus, Choix végétaliens",75001
+276,Damigiana,"Italienne, Méditerranéenne, Européenne, Toscane, Ligurienne, Italie du Nord, Italie du Centre","Déjeuner, Dîner, Boissons",56
+277,YO,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75002
+278,Lakshmi Bhavan,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",57
+279,Pottoka,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75007
+280,Le Concert de Cuisine,"Déjeuner, Dîner","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75015
+281,Lilane,Végétariens bienvenus,"Déjeuner, Dîner",75005
+282,Holybelly 5,"Australienne, Café, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75010
+283,Crêperie Gigi,Française,"Végétariens bienvenus, Choix végétaliens",75003
+284,Pouliche,"Française, Brasserie gastronomique","Déjeuner, Dîner, Ouvert tard, Boissons",75010
+285,Le Petit Littré,"Végétariens bienvenus, Choix végétaliens","Boissons, Déjeuner, Dîner",75006
+286,L'Escudella,Végétariens bienvenus,"Déjeuner, Dîner",75007
+287,Thai Spices,Thaï,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75004
+288,Le Cambodge,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75015
+289,Restaurant Le W,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard, Boissons",75008
+290,Khajuraho,"Indienne, Bar, Asiatique, Fusion, Pakistanaise","Végétariens bienvenus, Choix végétaliens",75007
+291,La Capannina,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75005
+292,Le Maharaja,"Indienne, Sri lankaise","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75017
+293,Le Taillevent,"Française, Européenne","Déjeuner, Dîner",75008
+294,Pedzouille,"Déjeuner, Dîner","Réservations, Places assises, Sert de l'alcool, Wi-Fi gratuit, Accepte les cartes bancaires, Service de table",75010
+295,Pleine Terre,"Française, Européenne",Végétariens bienvenus,75116
+296,Il grano,"Pizza, Italienne, Méditerranéenne, Européenne, Romana, Sicilienne, Italie du Sud","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75017
+297,Tonkatsu Tombo,Végétariens bienvenus,"Déjeuner, Dîner",75015
+298,Le P'tit Troquet,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75007
+299,Le Bar de Jarente,"Française, Européenne",Végétariens bienvenus,75004
+300,L'Ange 20 Restaurant,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",75004
+301,Lalà La Lasagneria - Pigalle,"Italienne, Européenne","Végétariens bienvenus, Choix végétaliens",75009
+302,Perchiana,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75015
+303,Aux Cerises,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75007
+304,Au Coup De Torchon,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner",75006
+305,Chez Germaine,"Française, Européenne",Végétariens bienvenus,75007
+306,Schum,"Française, Européenne","Déjeuner, Dîner, Ouvert tard, Boissons",50
+307,Ciasa Mia,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75005
+308,Papy aux Fourneaux,"Européenne, Saine","Végétariens bienvenus, Choix végétaliens",70
+309,Au Bon Accueil,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75007
+310,Juveniles Wine Bar,Végétariens bienvenus,"Déjeuner, Dîner",75001
+311,La Forge,Française,Végétariens bienvenus,75005
+312,Les Climats,"Française, Européenne",Plats sans gluten,75007
+313,Le Colimaçon,"Française, Grillades","Végétariens bienvenus, Plats sans gluten",75004
+314,Le Jeroboam,"Française, Européenne, Moderne, Saine, Brasserie gastronomique","Déjeuner, Dîner, Ouvert tard",72
+315,Trois Crabes,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard, Boissons",75012
+316,Le Bistro du Perigord,Plats sans gluten,"Déjeuner, Dîner, Ouvert tard",71
+317,NEW JHELUM,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner",75002
+318,Milord,Choix végétaliens,"Déjeuner, Dîner",75013
+319,,,,
+320,Le Kigawa,Française,"Déjeuner, Dîner",75014
+321,Le Petit Baigneur,"Déjeuner, Dîner, Boissons, Ouvert tard","Accès personnes handicapées, Réservations, Places assises, Stationnement dans la rue, Sert de l'alcool, Bières & Vins, Paiements électroniques, Accepte les cartes bancaires, Service de table",75014
+322,La Maison du Jardin,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75006
+323,Chez Nicos,Restauration rapide,"Végétariens bienvenus, Choix végétaliens",75005
+324,Le Maxan Restaurant,"Française, Européenne","Plats sans gluten, Végétariens bienvenus",75008
+325,AU VIEUX COMPTOIR,"Française, Européenne",Végétariens bienvenus,75001
+326,MARDI - Crêperie Urbaine,"Française, Européenne, Moderne, Cuisine de rue (street food)","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75002
+327,Guy Savoy,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner",75006
+328,Kheak & Véro,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75010
+329,La Jacobine,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",59
+330,La Brasserie Thaï,"Asiatique, Thaï","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75018
+331,Au Petit Tonneau,"Française, Saine","Végétariens bienvenus, Plats sans gluten",75007
+332,Les Poulettes Batignolles,"Déjeuner, Dîner, Boissons","Sert de l'alcool, American Express acceptée, Mastercard acceptée, Visa acceptée, Paiement en espèces seulement, Wi-Fi gratuit, Réservations, Places assises, Accepte les cartes bancaires, Service de table, Accès personnes handicapées, Bières & Vins, Paiements électroniques",75017
+333,Lucette fait des Crepes,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75009
+334,Vava,"Française, Fusion, Diner, Brasserie gastronomique","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75018
+335,Le Touareg,"Méditerranéenne, Moyen-Orient, Algérien","Végétariens bienvenus, Choix végétaliens, Halal",75012
+336,Menekse,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75011
+337,Le P'tit Vélo,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75009
+338,L'Impasto,"Italienne, Pizza, Méditerranéenne","Végétariens bienvenus, Choix végétaliens",75012
+339,Les Bougresses,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75004
+340,Sapori di Parma,Végétariens bienvenus,"Déjeuner, Dîner",56
+341,Sur Mesure par Thierry Marx,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",51
+342,CHEZ MAXENCE,Végétariens bienvenus,"Déjeuner, Dîner",52
+343,Paris-Breizh Place d’Italie,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75013
+344,Maison Rostang,"Française, Européenne",Végétariens bienvenus,75017
+345,Le Brun,"Française, Saine, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75001
+346,Kitchen Terre,Européenne,Végétariens bienvenus,75005
+347,Le Pré Catelan,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75116
+348,L'Alsacien,"Bar à vins, Française, Européenne, Bar à bières","Végétariens bienvenus, Choix végétaliens",75004
+349,LE LOUIS,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75001
+350,Didon.,Française,,
+351,Il était une Oie dans le Sud Ouest,"Déjeuner, Dîner","American Express acceptée, Mastercard acceptée, Visa acceptée, Réservations, Terrasse, Places assises, Chaises hautes disponibles, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75017
+352,Brutus - Batignolles,Française,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75017
+353,Les Papilles,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75005
+354,L'Artisan Libanais,"Libanaise, Méditerranéenne, Moyen-Orient","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75019
+355,Oxymore,Végétariens bienvenus,"Déjeuner, Dîner",75011
+356,Chez Paolo,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75009
+357,Les Cèdres du Liban,"Libanaise, Méditerranéenne, Saine, Moyen-Orient, Arabe","Végétariens bienvenus, Choix végétaliens, Halal",75015
+358,Ripaille,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",75017
+359,Caramel Sarrasin,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Brunch",75009
+360,Chez Tony,Française,"Végétariens bienvenus, Choix végétaliens",75016
+361,Pizza Caratello,"Italienne, Pizza, Européenne, Méditerranéenne","Végétariens bienvenus, Choix végétaliens",75018
+362,RoofTop Molitor,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Boissons",75016
+363,Alan Geaam Restautant,"Française, Européenne, Moderne","Déjeuner, Dîner",75116
+364,Racina,"Italienne, Pizza, Méditerranéenne, Européenne, Traiteur","Végétariens bienvenus, Choix végétaliens",75005
+365,0039 Ristorante Italiano,"Italienne, Méditerranéenne, Européenne, Toscane, Italie du Centre",Végétariens bienvenus,75004
+366,Restaurant Akrame,Végétariens bienvenus,"Déjeuner, Dîner",75008
+367,Les Inséparables,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75018
+368,Rouge Bis,"Française, Bar, Européenne, Saine","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75009
+369,Buono Sano Bello,"Italienne, Méditerranéenne, Européenne","Choix végétaliens, Végétariens bienvenus",75019
+370,Les Enfants Rouges,"Française, Européenne",Végétariens bienvenus,75003
+371,Papelli,"Italienne, Pizza, Méditerranéenne","Végétariens bienvenus, Choix végétaliens",74
+372,Le Hide,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75017
+373,Qui Plume La Lune,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",50
+374,Fermier Gourmet,"Française, Steakhouse, Barbecue/Grillades, Européenne, Cuisine de rue (street food)","Végétariens bienvenus, Plats sans gluten",75003
+375,IZU,"Japonaise, Sushi, Asiatique","Végétariens bienvenus, Choix végétaliens",75013
+376,A l'Endroit,"Française, Européenne",Végétariens bienvenus,75019
+377,Le Berbère,"Végétariens bienvenus, Choix végétaliens, Halal","Déjeuner, Dîner, Ouvert tard",75012
+378,Le Jourdain,"Française, Fruits de mer & Poisson, Européenne, Brasserie gastronomique",Plats sans gluten,01
+379,Magokoro,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75009
+380,Les Rupins,"Steakhouse, Française, Internationale, Européenne, Grillades","Végétariens bienvenus, Choix végétaliens",75010
+381,Astair,"Française, Fruits de mer & Poisson, Grillades, Européenne, Bars-restaurants","Déjeuner, Dîner, Ouvert tard, Boissons",75002
+382,Tesoro D'Italia,"Italienne, Méditerranéenne, Européenne","Choix végétaliens, Végétariens bienvenus",75013
+383,Freddy's,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner",54
+384,Il Farniente,"Italienne, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens",50
+385,L'Alchimiste,"Française, Européenne, Saine",Végétariens bienvenus,75012
+386,Le Barav,"Dîner, Ouvert tard, Boissons","Terrasse, Places assises, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table",75003
+387,New Balal,"Indienne, Saine, Pakistanaise","Végétariens bienvenus, Choix végétaliens, Halal, Plats sans gluten",75009
+388,Le Sens Unique,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75008
+389,L'Apibo,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75002
+390,Lylee,"Asiatique, Thaï, Vietnamienne, Saine","Déjeuner, Dîner, Ouvert tard",75015
+391,Auguste,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",54
+392,Kuccini,"Italienne, Méditerranéenne, Fusion","Végétariens bienvenus, Choix végétaliens",75002
+393,Miura,"Française, Européenne, Moderne, Saine","Déjeuner, Dîner, Boissons",75017
+394,Bien Bien,"Asiatique, Thaï, Saine","Végétariens bienvenus, Choix végétaliens",75009
+395,Sola,"Fusion, Japonaise","Déjeuner, Dîner",75005
+396,Mezzé De Beyrouth,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75014
+397,tama-sushi,"Japonaise, Sushi, Asiatique","Végétariens bienvenus, Choix végétaliens",75002
+398,Au Virage Lepic,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75018
+399,Casa Vina,Végétariens bienvenus,"Déjeuner, Dîner",75011
+400,L'Antre Amis,"Française, Européenne",Végétariens bienvenus,75015
+401,Vertigo,Végétariens bienvenus,"Déjeuner, Dîner",75011
+402,Loco,"Steakhouse, Latino, Barbecue/Grillades, Argentine","Déjeuner, Dîner",75009
+403,Mavrommatis,"Méditerranéenne, Européenne, Grecque","Végétariens bienvenus, Choix végétaliens",75005
+404,Bistrot de L'Oulette,"Française, Européenne",Végétariens bienvenus,75004
+405,Le Refuge du Passé,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",75005
+406,Les Saveurs d'Abyssinie,"Africaine, Éthiopienne","Végétariens bienvenus, Choix végétaliens",75005
+407,Bel Canto,Végétariens bienvenus,"Dîner, Ouvert tard",72
+408,Sourire tapas françaises,"Française, Européenne, Bar à vins","Végétariens bienvenus, Plats sans gluten",75005
+409,Kohyang,"Barbecue/Grillades, Asiatique, Coréenne, Internationale, Diner","Végétariens bienvenus, Choix végétaliens",75015
+410,La Rughetta,"Italienne, Européenne","Végétariens bienvenus, Choix végétaliens",75018
+411,De l'Autre Cote,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75010
+412,Nick's Pizza,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75009
+413,Le Chenin,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75009
+414,La Cantina,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75016
+415,Ristorante Adaggio,"Italienne, Pizza, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens",07
+416,Ristorante Costa d'Amalfi,"Italienne, Méditerranéenne, Européenne","Choix végétaliens, Végétariens bienvenus",75007
+417,Le Potager de Charlotte,"Choix végétaliens, Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Brunch",75009
+418,Oka,"Brésilienne, Fusion, Française",Végétariens bienvenus,75005
+419,L'Insoumise,"Française, Européenne","Déjeuner, Dîner",75015
+420,Salento Marais,"Italienne, Méditerranéenne, Européenne, Saine","Végétariens bienvenus, Choix végétaliens",75004
+421,Le Potager du Pere Thierry,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75018
+422,Pause Bobun,"Bar à bières, Asiatique, Vietnamienne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75005
+423,Chez Pradel,Végétariens bienvenus,"Déjeuner, Boissons",75018
+424,Le Pot de Vins,"Française, Européenne, Bar à vins","Déjeuner, Dîner",75001
+425,Le Jardin d'en Face,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75018
+426,Sur la route de Plouescat,Française,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75018
+427,Accents Table Bourse,Végétariens bienvenus,"Déjeuner, Dîner",75002
+428,Terronia,"Italienne, Méditerranéenne, Européenne","Déjeuner, Dîner",75005
+429,Les Botanistes,Végétariens bienvenus,"Déjeuner, Dîner",75007
+430,le Casse Noix,"Française, Européenne, Saine","Végétariens bienvenus, Plats sans gluten",56
+431,Restaurant David Toutain,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75007
+432,Le Sagittaire,"Déjeuner, Dîner, Ouvert tard","American Express acceptée, Mastercard acceptée, Visa acceptée, Paiements électroniques, Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",77
+433,Fric-Frac,"Française, Européenne, Cuisine de rue (street food)","Végétariens bienvenus, Choix végétaliens",79
+434,Al Assil,Choix végétaliens,"Déjeuner, Dîner",50
+435,Bien Eleve,"Française, Steakhouse, Européenne","Déjeuner, Dîner",75009
+436,Janna,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75017
+437,Le Restaurant,"Française, Européenne",Végétariens bienvenus,75006
+438,L'artiste,"Française, Européenne",Végétariens bienvenus,75018
+439,L'estrapade,Française,Végétariens bienvenus,75005
+440,Paris Follie's,Végétariens bienvenus,"Petit déjeuner, Déjeuner, Dîner, Brunch",74
+441,Carre des Feuillants,"Déjeuner, Dîner, Ouvert tard","Réservations, Salle privée, Places assises, Service de voiturier, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75001
+442,Le Ruisseau Burger Joint,"Américaine, Restauration rapide",Végétariens bienvenus,75003
+443,Chez Léon,"Bar, Française, Brasserie gastronomique",Végétariens bienvenus,75017
+444,Le Pavillon de la Grande Cascade,"Française, Européenne, Saine","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75116
+445,My Noodles,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75006
+446,Sodam - Restaurant Coréen,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75014
+447,Kashmir House,"Végétariens bienvenus, Choix végétaliens, Halal, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75010
+448,TATA Burger,Américaine,"Végétariens bienvenus, Choix végétaliens",54
+449,Assanabel,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75014
+450,Les petites bouchées,"Française, Européenne, Espagnole, Internationale","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75004
+451,Flottes,"Française, Bar","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75001
+452,Le Coin des Amis,"Française, Européenne",Végétariens bienvenus,50
+453,Antoine,"Déjeuner, Dîner","Réservations, Salle privée, Places assises, Service de voiturier, Accès personnes handicapées, Sert de l'alcool, Bières & Vins, American Express acceptée, Mastercard acceptée, Visa acceptée, Accepte les cartes bancaires, Service de table",75116
+454,Le Boudoir,"Française, Européenne, Bar à vins, Brasserie gastronomique",Végétariens bienvenus,75008
+455,Nomikai,"Végétariens bienvenus, Plats sans gluten","Dîner, Déjeuner",75012
+456,Canard & Champagne,"Française, Européenne","Déjeuner, Dîner",57
+457,Le Refuge des Moines,"Française, Européenne, Bar à vins",Végétariens bienvenus,75017
+458,le papacionu,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75009
+459,Le Petit Marché,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75003
+460,Les Antiquaires,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75007
+461,Le Vin Coeur,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard",75017
+462,Don Camilo,"Déjeuner, Dîner, Boissons","Chèques-cadeaux disponibles, Réservations, Places assises, Sert de l'alcool, Service de table",75006
+463,La Cuisine de Philippe,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75006
+464,Postiche,"Française, Européenne",Végétariens bienvenus,75001
+465,"Les Affames,",Moderne,"Dîner, Déjeuner",75002
+466,CHEZ BOUBOULE,"Française, Européenne","Déjeuner, Dîner",75009
+467,Frederic Simonin,"Française, Européenne",Végétariens bienvenus,75017
+468,Tesoro d'Italia,"Italienne, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens",75010
+469,LES TANTES JEANNE,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75018
+470,La Petite Bretonne,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75005
+471,Pierre Sang on Gambey,"Coréenne, Française, Européenne, Fusion","Végétariens bienvenus, Plats sans gluten",75011
+472,Restaurant Will,"Déjeuner, Dîner","Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75
+473,L'Oiseau Blanc Restaurant,"Française, Européenne","Déjeuner, Dîner, Ouvert tard, Boissons",75116
+474,Le George,"Méditerranéenne, Italienne, Européenne, Saine, Toscane, Italie du Centre","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75008
+475,Le recepteur,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75016
+476,La Traversée,"Française, Bar à bières, Bar, Moderne, Bar à vins, Européenne","Végétariens bienvenus, Choix végétaliens",75018
+477,Les Fines Gueules,"Française, Européenne, Bar à vins","Végétariens bienvenus, Plats sans gluten",75001
+478,Black dog,"Française, Barbecue/Grillades, Steakhouse, Argentine","Déjeuner, Dîner, Ouvert tard",75004
+479,La Forge,"Déjeuner, Dîner, Ouvert tard, Boissons","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75019
+480,Bistrot Victoires,"Française, Bar, Européenne",Végétariens bienvenus,75001
+481,Le Ju',"Française, Bar, Européenne","Végétariens bienvenus, Choix végétaliens",75004
+482,L'Elan 9,"Française, Brasserie gastronomique, Européenne",Végétariens bienvenus,75009
+483,Murier,"Française, Européenne",Végétariens bienvenus,75015
+484,La Part des Anges,"Française, Européenne","Déjeuner, Dîner, Ouvert tard, Boissons",75018
+485,L'Abreuvoir,"Française, Européenne, Internationale","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75015
+486,Les Fines Lames,"Française, Steakhouse, Barbecue/Grillades, Grillades","Déjeuner, Dîner",75018
+487,Diggity,"Française, Européenne, Saine","Déjeuner, Dîner, Ouvert tard, Boissons",75011
+488,Au Doux Raisin,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard, Boissons",75005
+489,Caffe Caesar,"Italienne, Pizza, Européenne","Végétariens bienvenus, Choix végétaliens",75017
+490,L'Atelier Ramey,"Française, Européenne, Brasserie gastronomique",Végétariens bienvenus,75018
+491,A Côté,"Française, Internationale, Européenne","Déjeuner, Dîner, Boissons, Ouvert tard",75009
+492,Le Baudelaire,"Française, Européenne","Petit déjeuner, Déjeuner, Dîner, Ouvert tard",75001
+493,Bidoche Boucherie Restaurant,"Française, Steakhouse","Déjeuner, Dîner",75011
+494,Casta Diva,"Italienne, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens",02
+495,Nomicos (ex- Les Tablettes),Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75116
+496,Galette Café,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75007
+497,Le Petit Pontoise,"Française, Européenne",Végétariens bienvenus,75005
+498,Aux Dés Calés 17,"Française, Bar, Européenne","Végétariens bienvenus, Choix végétaliens",75017
+499,Il Modigliani,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",72
+500,Bistrotters,"Française, Européenne, Saine",Végétariens bienvenus,75014
+501,Il Forno Di Napoli,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75014
+502,Le Volant,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table",75015
+503,Le Café de Mars,"Fusion, Française, Européenne","Végétariens bienvenus, Plats sans gluten",75007
+504,Palais du Bonheur,"Chinoise, Asiatique, Thaï, Cuisine de Pékin","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75016
+505,Le Bookie,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75009
+506,Sizin,Choix végétaliens,"Petit déjeuner, Déjeuner, Dîner, Boissons",75009
+507,Verjus,"Végétariens bienvenus, Plats sans gluten","Dîner, Ouvert tard, Boissons",52
+508,Siseng,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75010
+509,Jérémie,"Française, Européenne","Déjeuner, Dîner",75116
+510,Vivre Ópera Garnier,Française,Végétariens bienvenus,75002
+511,Meriggio,Italienne,Choix végétaliens,75009
+512,Polissons,"Française, Européenne",Végétariens bienvenus,75018
+513,Pratolina,"Italienne, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens",75002
+514,Gaspard de la Nuit,"Française, Européenne","Dîner, Ouvert tard",75004
+515,Le Vaisseau Vert,"Française, Saine, Internationale, Moderne","Déjeuner, Dîner, Boissons",75009
+516,Les 110 de Taillevent,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75008
+517,Papajazzclub,"Française, Européenne","Dîner, Ouvert tard, Boissons",75006
+518,Caius,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75017
+519,La Table Du Caviste Bio,"Française, Européenne, Fusion japonaise","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",55
+520,Restaurant Clémentine,"Française, Européenne, Saine",Végétariens bienvenus,75002
+521,Le Grand Restaurant Jean françois Piège,Française,"Déjeuner, Dîner",75008
+522,Neva Cuisine,"Déjeuner, Dîner","Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75008
+523,Villa Verdi,"Italienne, Méditerranéenne, Européenne, Romana, Latium, Italie du Centre","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75015
+524,Restaurant la Ville de Provins Paris,"Végétariens bienvenus, Choix végétaliens","Petit déjeuner, Déjeuner, Dîner, Brunch",74
+525,Tesoro D'italia,"Méditerranéenne, Italienne, Européenne","Choix végétaliens, Végétariens bienvenus",75009
+526,Le Rusti,"Italienne, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens",75004
+527,Santa Carne,"Dîner, Ouvert tard","Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75011
+528,Il Farniente,"Italienne, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens",75014
+529,Café Bolivar,"Française, Café, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75019
+530,4 Pat,Végétariens bienvenus,"Déjeuner, Dîner, Brunch, Ouvert tard",75004
+531,Tomy & Co,Végétariens bienvenus,Végétariens bienvenus,75007
+532,Augustin Bistrot,Végétariens bienvenus,"Déjeuner, Dîner",79
+533,Il Vicolo,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75006
+534,Le Barbier De Bastille,"Déjeuner, Dîner, Brunch","Plats à emporter, Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Bar complet, Wi-Fi gratuit, Service de table",75011
+535,La Mère Poule,Végétariens bienvenus,"Déjeuner, Brunch, Dîner",01
+536,La Petite Auberge,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75015
+537,Nossa Churrasqueira,"Barbecue/Grillades, Européenne, Grillades, Portugaise, Méditerranéenne","Déjeuner, Dîner",75005
+538,Le Soufflé,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75001
+539,Autour du Saumon - Miron,"Déjeuner, Dîner","Plats à emporter, Réservations, Places assises, Sert de l'alcool, American Express acceptée, Mastercard acceptée, Visa acceptée, Accepte les cartes bancaires, Service de table, Accès personnes handicapées",75004
+540,Restaurant Georgette,"Française, Européenne, Brasserie gastronomique",Végétariens bienvenus,75006
+541,Chez Vincent,"Déjeuner, Dîner","Réservations, Places assises, Sert de l'alcool, Service de table",56
+542,Les Embruns,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Brunch, Ouvert tard",75012
+543,Comptoir de La Gastronomie,"Française, Européenne",Plats sans gluten,75001
+544,Maoz Vegetarian,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75005
+545,Moustache,"Française, Européenne","Plats sans gluten, Végétariens bienvenus",75006
+546,Oi Sushi,"Japonaise, Sushi, Asiatique","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75005
+547,The Hardware Societe,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Petit déjeuner, Déjeuner, Brunch, Boissons",75018
+548,Tifinagh Restaurant,"Déjeuner, Dîner","Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table",75018
+549,Sanukiya,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75001
+550,Issa Paris,"Japonaise, Asiatique, Saine, Fusion japonaise","Déjeuner, Dîner, Brunch",75005
+551,6 New York,Française,"Végétariens bienvenus, Plats sans gluten",75016
+552,Pizza Rossi,"Italienne, Pizza, Napolitaine, Campanie, Italie du Sud","Italienne, Pizza, Napolitaine, Campanie, Italie du Sud",75002
+553,Crepolog,"Française, Café","Végétariens bienvenus, Plats sans gluten, Choix végétaliens",75004
+554,Les Retrouvailles,"Bar, Diner, Française, Moderne, Saine, Brasserie gastronomique",Végétariens bienvenus,75009
+555,Thaï Nam,"Asiatique, Thaï, Vietnamienne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75003
+556,Pouzenc,"Déjeuner, Dîner","Réservations, Terrasse, Sert de l'alcool, Bar complet, Bières & Vins, Mastercard acceptée, Visa acceptée, Wi-Fi gratuit, Places assises, Accès personnes handicapées, Accepte les cartes bancaires, Service de table",75012
+557,Ristorantino Shardana,Végétariens bienvenus,"Déjeuner, Dîner",75015
+558,Anco,"Déjeuner, Dîner","Réservations, Places assises, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table",08
+559,Alléno Paris,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75008
+560,L'Ebauchoir,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75012
+561,Albert,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75009
+562,La Scarpetta,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75008
+563,Café Michel,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75015
+564,Les Artistes Gourmands,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75011
+565,Le Chalet du 8ème,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75008
+566,Phillipe Excoffier,"Française, Européenne",Végétariens bienvenus,75007
+567,Pramil,"Française, Européenne",Plats sans gluten,75003
+568,La Fine Mousse,"Française, Brasserie gastronomique, Bar à bières","Déjeuner, Dîner, Ouvert tard, Boissons",75011
+569,Maguey,Végétariens bienvenus,"Déjeuner, Dîner, Brunch",75012
+570,Bissac,"Française, Européenne","Déjeuner, Dîner, Ouvert tard, Boissons",75002
+571,Kagayaki,"Déjeuner, Dîner, Ouvert tard","Plats à emporter, Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table",79
+572,Pirouette,"Déjeuner, Dîner, Ouvert tard","Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table, Bières & Vins, Chèques-cadeaux disponibles",75001
+573,Au fil des saisons,"Diner, Française, Européenne","Déjeuner, Dîner, Ouvert tard",75003
+574,Garnett,Végétariens bienvenus,"Dîner, Déjeuner",75017
+575,La Cantine de Quentin,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",52
+576,Restaurant Le Meurice Alain Ducasse,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten",Dîner,75001
+577,Frenchie,Française,"Végétariens bienvenus, Plats sans gluten",75002
+578,Caffe Stern,"Végétariens bienvenus, Choix végétaliens","Petit déjeuner, Brunch, Déjeuner, Dîner, Boissons",75002
+579,Creperie Paris Breizh Daumesnil,"Française, Européenne",Végétariens bienvenus,77
+580,Pizzawawa,"Italienne, Pizza, Européenne","Végétariens bienvenus, Choix végétaliens",75001
+581,La Gazette,"Française, Internationale, Fusion","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75116
+582,MERSEA Grands Boulevards,"Française, Fruits de mer & Poisson, Cuisine de rue (street food), Américaine, Internationale",Végétariens bienvenus,75009
+583,Le Ruisseau,Végétariens bienvenus,"Déjeuner, Dîner, Brunch, Ouvert tard",75018
+584,Le Violon d'Ingres,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75007
+585,La Vache Acrobate,"Française, Européenne",Végétariens bienvenus,75011
+586,La Petite Bouclerie,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75005
+587,Guibine,"Barbecue/Grillades, Asiatique, Coréenne, Saine","Végétariens bienvenus, Choix végétaliens",75002
+588,Helen,"Déjeuner, Dîner","Réservations, Places assises, Service de voiturier, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table, Salle privée",75008
+589,Massawa,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75010
+590,20 Eiffel,"Française, Européenne",Végétariens bienvenus,75007
+591,Chez Mademoiselle,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75004
+592,La Promenade,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75012
+593,L'Anvers du Décor,"Française, Européenne, Grillades","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75018
+594,Café Varenne,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Boissons, Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard",75007
+595,Le Coupe Gorge,"Brasserie gastronomique, Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75004
+596,Comme A Lisbonne,Végétariens bienvenus,Déjeuner,75004
+597,Le chant des oliviers,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75018
+598,Le Pantruche,"Française, Européenne",Végétariens bienvenus,75009
+599,Prik Thai Maine,"Brasserie gastronomique, Asiatique, Thaï","Végétariens bienvenus, Choix végétaliens",75014
+600,Le Tourbillon,"Française, Européenne",Végétariens bienvenus,75017
+601,Circonstances,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",74
+602,Máncora Cebicheria,"Péruvienne, Saine","Végétariens bienvenus, Plats sans gluten",75003
+603,Birdy's,Végétariens bienvenus,"Déjeuner, Dîner, Boissons",75020
+604,L'Atelier du Marche,"Brasserie gastronomique, Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75017
+605,Le Coryllis,"Italienne, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens",75018
+606,Pasco,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",74
+607,Auberge Pyrénées Cévennes,"Française, Européenne","Déjeuner, Dîner, Ouvert tard, Boissons",06
+608,L'Aller Retour,"Française, Steakhouse, Européenne","Déjeuner, Dîner, Ouvert tard",75003
+609,Bistrot des Vosges,"Française, Grillades",Végétariens bienvenus,75004
+610,Le Hangar,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75003
+611,Le Cornichon,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",75014
+612,Ao Izakaya,"Japonaise, Asiatique, Fusion, Saine","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75009
+613,Elmer,"Française, Européenne",Végétariens bienvenus,75003
+614,Babalou,"Italienne, Pizza, Européenne","Végétariens bienvenus, Choix végétaliens",75018
+615,Les Artizans,"Française, Européenne",Végétariens bienvenus,75001
+616,The Place to...,"Française, Bar, Fusion","Végétariens bienvenus, Choix végétaliens",00
+617,Huitrerie Regis,"Française, Fruits de mer & Poisson, Saine",Plats sans gluten,75006
+618,Firmin le Barbier,"Française, Saine, Thaï","Végétariens bienvenus, Plats sans gluten",00
+619,Sorza,"Italienne, Française, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",51
+620,Le Christine,"Française, Saine","Végétariens bienvenus, Plats sans gluten",75006
+621,L'Astrance,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75016
+622,Simone - Le Resto,"Française, Européenne, Bar à vins","Déjeuner, Dîner",75013
+623,La Dame de Pic,"Française, Européenne, Saine",Végétariens bienvenus,75001
+624,A l'Affiche,"Française, Européenne",Végétariens bienvenus,75008
+625,Le Petit Medicis,Française,Végétariens bienvenus,75006
+626,Le 14 Juillet,"Française, Européenne",Végétariens bienvenus,75014
+627,Bar à Iode - Saint Germain,"Française, Fruits de mer & Poisson",Plats sans gluten,75005
+628,Le Colvert Bistrot,"Française, Saine","Déjeuner, Dîner",54
+629,L'Express de Lyon,"Française, Bar, Européenne","Déjeuner, Dîner, Boissons",75012
+630,Le Bistrot Des Campagnes,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75014
+631,BAĀGAĀ Trocadéro,"Française, Américaine",Végétariens bienvenus,54
+632,Le Caminito Cabaret,"Française, Internationale",Végétariens bienvenus,75013
+633,Cedars,"Libanaise, Méditerranéenne, Moyen-Orient, Barbecue/Grillades, Traiteur","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",01
+634,LE MAZENAY,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75003
+635,Korus,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Mastercard acceptée, Visa acceptée, Accepte les cartes bancaires, Service de table, Chaises hautes disponibles, Bar complet",73
+636,Salento Montmartre,"Italienne, Européenne, Saine, Romana, Latium, Italie du Centre","Déjeuner, Dîner, Boissons",75009
+637,L'ilot,Plats sans gluten,"Déjeuner, Dîner, Ouvert tard",75003
+638,Mondol Kiri,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",59
+639,Au Bourguignon du Marais,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",52
+640,Les Arlots,"Déjeuner, Dîner","Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75010
+641,U Mulinu,"Diner, Française, Méditerranéenne, Européenne","Déjeuner, Dîner, Ouvert tard, Boissons",00m
+642,Il Piccolo Rifugio,"Italienne, Méditerranéenne, Européenne",Végétariens bienvenus,75018
+643,Eggs & Co,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Petit déjeuner, Déjeuner, Brunch",75006
+644,Axuria,Végétariens bienvenus,"Dîner, Déjeuner, Ouvert tard",54
+645,Comme Chai Toi - Notre Dame,Française,Végétariens bienvenus,75005
+646,L'Atelier Roulière,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",75006
+647,Shirvan Cafe Metisse,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner",75008
+648,LE RELAIS GASCON,Française,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75018
+649,Mouffetard Saigon's,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75005
+650,Notre Table,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Boissons",04
+651,Chez Monsieur,"Déjeuner, Dîner","Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table",75008
+652,La Vache Dans Les Vignes,Déjeuner,"Plats à emporter, Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75010
+653,Abuela,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard, Boissons",75009
+654,7ème vin,"Française, Européenne, Saine","Végétariens bienvenus, Plats sans gluten",75007
+655,Ty Galettes,"Française, Européenne",Végétariens bienvenus,75015
+656,Monbleu,Végétariens bienvenus,Végétariens bienvenus,75009
+657,Café Francoeur,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard",75018
+658,Figuig,"Marocaine, Saine, Moyen-Orient","Déjeuner, Dîner, Brunch, Ouvert tard, Boissons",75017
+659,Anicia,"Française, Européenne, Moderne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75006
+660,Bistrot 31,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75016
+661,L'Acanthe,"Choix végétaliens, Végétariens bienvenus","Déjeuner, Dîner",75004
+662,Gloria Restaurant,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",08
+663,Thai Papaya,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",51
+664,Shang Palace,"Chinoise, Asiatique","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75116
+665,Les Grillades de Buenos Aires,"Steakhouse, Barbecue/Grillades, Argentine","Déjeuner, Dîner, Ouvert tard",54
+666,Yam'Tcha,Asiatique,Végétariens bienvenus,75001
+667,La Gourmandise,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75007
+668,Dessance,"Française, Européenne, Saine","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",74
+669,Alfio,"Italienne, Pizza, Européenne","Végétariens bienvenus, Choix végétaliens",75007
+670,Au Bon Coin,"Française, Saine",Végétariens bienvenus,75005
+671,So Italia by Casa ROSATI,Italienne,"Végétariens bienvenus, Choix végétaliens",75011
+672,Blueberry,"Japonaise, Sushi, Asiatique, Internationale","Japonaise, Sushi, Asiatique, Internationale",75006
+673,Homies,"Fusion, Sud-américaine, Internationale",Végétariens bienvenus,75004
+674,Le Béguin des Mets,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75006
+675,Tentazioni,"Italienne, Méditerranéenne, Européenne, Sicilienne, Italie du Sud","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75018
+676,Les Fous de l'île,"Française, Européenne, Saine","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75004
+677,Ayako teppanyaki,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75014
+678,Le Coup de Torchon,Végétariens bienvenus,"Déjeuner, Dîner",75005
+679,Pizza Di Gio,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75006
+680,Le Butcher,"Américaine, Française","Halal, Végétariens bienvenus, Choix végétaliens",75008
+681,La Cave Gourmande,"Déjeuner, Dîner, Ouvert tard","Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Wi-Fi gratuit, Accepte les cartes bancaires, Service de table",75018
+682,Mariba,"Française, Asiatique, Fusion, Vietnamienne, Saine","Choix végétaliens, Plats sans gluten, Végétariens bienvenus",03
+683,L'Echoppe de Paris,"Française, Américaine, Européenne",Végétariens bienvenus,75011
+684,Kokohana,"Japonaise, Asiatique","Déjeuner, Dîner",75008
+685,Do et Riz,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75012
+686,Bourgogne Sud,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75009
+687,Via del Gusto,"Pizza, Italienne, Méditerranéenne, Européenne, Toscane, Romana, Latium, Italie du Centre","Végétariens bienvenus, Choix végétaliens",75015
+688,Les Petits Plats,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",75014
+689,L'Entracte Bistrot,"Déjeuner, Dîner","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75020
+690,L'Ascension,"Déjeuner, Dîner","Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75009
+691,Garance,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75007
+692,Café Jean,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Petit déjeuner, Déjeuner, Dîner, Brunch",75019
+693,La Bauhinia,"Française, Européenne, Thaï","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75116
+694,Léandrés Happy Food & Coffee,Café,Végétariens bienvenus,78
+695,Ebis,"Japonaise, Asiatique, Fusion",Végétariens bienvenus,75001
+696,Les Vinaigriers,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75010
+697,Melt Oberkampf,"Américaine, Steakhouse, Barbecue/Grillades","Déjeuner, Dîner, Ouvert tard, Boissons",74
+698,Alizee Creperie Gourmet,"Française, Européenne","Choix végétaliens, Plats sans gluten, Végétariens bienvenus",75005
+699,Dans le Noir ?,"Française, Saine","Française, Saine",51
+700,American Corner,Américaine,Végétariens bienvenus,75005
+701,Loca,"Française, Steakhouse, Barbecue/Grillades, Argentine, Sud-américaine","Déjeuner, Dîner",75018
+702,Il Sorrentino,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75007
+703,Chez Mademoiselle,"Russe, Europe de l'Est",Végétariens bienvenus,75015
+704,Le Relais Louis XIII,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75006
+705,Le Verre Galant,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",56
+706,Le Bistrot d'Henri,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75006
+707,Tamarind,"Asiatique, Thaï","Végétariens bienvenus, Choix végétaliens",75004
+708,Le Petit Chatelet,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75005
+709,La Fontaine de Mars,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75007
+710,Il Carpaccio,"Italienne, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75008
+711,Origines,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table, Stationnement dans la rue, Restaurants non-fumeurs",75008
+712,Les Enfants Perdus,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Brunch, Ouvert tard",75010
+713,Mamma Primi,Végétariens bienvenus,"Déjeuner, Dîner",71
+714,142 Creperie Contemporaine,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",59
+715,Chez Mamane,"Algérien, Bar à bières","Végétariens bienvenus, Choix végétaliens, Halal",75013
+716,Restaurant Florina,"Française, Européenne, Internationale","Déjeuner, Dîner",75013
+717,Takara,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75001
+718,Pamela Popo,Végétariens bienvenus,"Dîner, Ouvert tard",75004
+719,Juste,"Française, Fruits de mer & Poisson, Européenne",Plats sans gluten,75009
+720,Le P'tit Canon,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Bar complet, American Express acceptée, Mastercard acceptée, Visa acceptée, Wi-Fi gratuit, Accepte les cartes bancaires, Service de table",75017
+721,A la Chataigne,"Française, Méditerranéenne, Européenne","Déjeuner, Dîner, Ouvert tard, Boissons",75008
+722,Brasserie Bellanger,"Française, Bar, Européenne","Déjeuner, Dîner, Ouvert tard, Boissons",75010
+723,Cocorico,"Française, Internationale, Européenne, Bar","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75007
+724,Singh,Indienne,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75005
+725,Croccante,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75015
+726,Braisenville,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard, Boissons",75009
+727,Hugo,Française,"Végétariens bienvenus, Choix végétaliens",75009
+728,East Mamma,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Boissons",75011
+729,46 & 3rd,"Internationale, Américaine, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75003
+730,Au rendez-vous de la Marine,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75019
+731,le Compas,"Française, Bar, Bars-restaurants","Végétariens bienvenus, Choix végétaliens",75002
+732,La Petite Tour,"Française, Européenne",Végétariens bienvenus,75116
+733,Carotte Bleue,Végétariens bienvenus,Dîner,02
+734,CORETTA,"Française, Européenne",Végétariens bienvenus,51
+735,L'Atelier du Parc,"Française, Européenne","Déjeuner, Dîner",75015
+736,L'Ardoise Gourmande,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75010
+737,Le Petit Commines,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard, Boissons",75003
+738,Mensae,"Déjeuner, Dîner","Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75019
+739,Uma Nota,"Japonaise, Brésilienne, Cuisine de rue (street food), Asiatique","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75002
+740,Roca,"Française, Européenne, Moderne, Brasserie gastronomique","Déjeuner, Dîner",75017
+741,BLACK PINKY,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75014
+742,Sushi-B Paris,"Sushi, Japonaise, Asiatique",Végétariens bienvenus,75002
+743,La Ferrandaise,"Française, Européenne, Brasserie gastronomique","Déjeuner, Dîner",75006
+744,Cinq-Mars,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",51
+745,La Fourchette du Printemps,"Déjeuner, Dîner","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75017
+746,Pierre sang In Oberkampf,"Coréenne, Française, Fusion, Saine","Végétariens bienvenus, Plats sans gluten",55
+747,Mamma Mia,"Italienne, Pizza","Végétariens bienvenus, Choix végétaliens",76
+748,La Catrina,"Mexicaine, Latino, Cuisine de rue (street food), Amérique centrale","Végétariens bienvenus, Choix végétaliens",75013
+749,L'Avant Comptoir,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard, Boissons",75006
+750,Café Sud,"Française, Européenne","Choix végétaliens, Végétariens bienvenus",75008
+751,PI HOUR Saint Georges,"Italienne, Pizza, Européenne","Choix végétaliens, Végétariens bienvenus",75009
+752,La Cantine Du Troquet Daguerre,"Déjeuner, Dîner","Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75014
+753,Le P'tit Barcelone,"Méditerranéenne, Européenne, Espagnole",Végétariens bienvenus,75009
+754,Frame Brasserie,"Végétariens bienvenus, Choix végétaliens","Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard",75015
+755,la Massara,"Italienne, Pizza, Européenne, Sicilienne, Italie du Sud","Végétariens bienvenus, Choix végétaliens",70
+756,Dulcinea,"Italienne, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens",75009
+757,Tavola Di Gio,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75014
+758,Chameleon Restaurant,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",70
+759,Le Temps des cerises,"Française, Européenne",Végétariens bienvenus,75004
+760,Le Bon Pêcheur,"Végétariens bienvenus, Choix végétaliens","Petit déjeuner, Déjeuner, Dîner, Brunch, Boissons",75001
+761,KOFF,Américaine,Végétariens bienvenus,75018
+762,Comptoir Montevideo,"Latino, Grillades, Argentine","Végétariens bienvenus, Choix végétaliens",75001
+763,Le New York,Française,"Choix végétaliens, Végétariens bienvenus",75116
+764,Le Basilic,"Française, Européenne",Végétariens bienvenus,75018
+765,QUEYRELOU,"Française, Européenne","Déjeuner, Dîner, Ouvert tard, Boissons",75011
+766,Kodawari Ramen (Yokochō),"Japonaise, Asiatique, Saine, Soupes",Végétariens bienvenus,75006
+767,L'Epi Dupin,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75006
+768,Le Janissaire,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75012
+769,Le Papillon,"Française, Européenne, Brasserie gastronomique","Végétariens bienvenus, Choix végétaliens",75020
+770,Bistrot Richelieu,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard",75001
+771,Fish La Boissonnerie,"Française, Européenne, Moderne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75006
+772,Le Galopin de LuLu,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75011
+773,Baan issan,"Asiatique, Thaï",Végétariens bienvenus,75013
+774,A la Biche au bois,Française,"Déjeuner, Dîner, Ouvert tard",75012
+775,Shiso Burger,"Américaine, Restauration rapide, Asiatique, Fusion","Végétariens bienvenus, Choix végétaliens",75005
+776,Pink Mamma,"Italienne, Méditerranéenne, Européenne, Napolitaine, Campanie, Toscane, Romana, Latium, Sicilienne, Italie du Centre, Italie du Sud",,
+777,Restaurant Rice & Fish,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75002
+778,Au Petit Suisse,Végétariens bienvenus,"Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard, Boissons",75006
+779,Sense Eat,"Italienne, Méditerranéenne, Saine, Moderne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75006
+780,huitzilin,"Mexicaine, Latino, Amérique centrale",Végétariens bienvenus,75020
+781,Caffè Jadis,"Française, Européenne",Végétariens bienvenus,75009
+782,Kodawari Ramen (Tsukiji),"Japonaise, Asiatique, Saine, Soupes","Déjeuner, Dîner, Boissons",75001
+783,La Cantine du Troquet Pernety,"Française, Européenne",Végétariens bienvenus,01
+784,Robert et Louise,"Déjeuner, Dîner, Boissons","Réservations, Places assises, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table",75003
+785,Le 32 By Hervé,"Française, Internationale, Fusion, Brasserie gastronomique",Végétariens bienvenus,75116
+786,Cafe d'Angel,"Déjeuner, Dîner","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75017
+787,Le Comptoir des Petits Champs,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75001
+788,Dalia,"Déjeuner, Dîner, Brunch, Ouvert tard, Boissons","Réservations, Terrasse, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table, Chaises hautes disponibles, Accès personnes handicapées, Bières & Vins, Paiements électroniques, Wi-Fi gratuit",75002
+789,Khao Thai Sevigne,"Asiatique, Thaï, Internationale","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75004
+790,La Palanche D'Âulac,"Asiatique, Vietnamienne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75009
+791,Le Louis Vins,"Française, Européenne",Végétariens bienvenus,75005
+792,Ô Chateau,Végétariens bienvenus,"Dîner, Ouvert tard, Boissons",75001
+793,Le Buisson Ardent,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75005
+794,H.Kitchen,Végétariens bienvenus,"Déjeuner, Dîner",75006
+795,Coffee Crepes,"Française, Café","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75001
+796,Auberge Bressane,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",75007
+797,Bonvivant,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner",75005
+798,La Marina Ristorante i Pizzeria,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75010
+799,Creperie de Port-Manech,Française,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten",52
+800,Le Cosy,"Végétariens bienvenus, Choix végétaliens","Petit déjeuner, Déjeuner, Dîner, Brunch",50
+801,Le Templier,"Déjeuner, Dîner","Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75015
+802,Le Radis Beurre,"Française, Européenne","Déjeuner, Dîner",51
+803,L'ours blanc,"Française, Européenne",Végétariens bienvenus,75004
+804,Wrap 'N Roll Sushi,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75009
+805,Ninar,Moyen-Orient,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten",03
+806,Clairiere,Végétariens bienvenus,"Déjeuner, Dîner",75009
+807,RESTAURANT MANDOOBAR,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75008
+808,Café des Ministères,"Déjeuner, Dîner, Boissons","Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table, Bières & Vins, Wi-Fi gratuit",75007
+809,Zébulon Palais Royal,"Déjeuner, Dîner","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table",75001
+810,Le Chef Thaï,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",59
+811,La Cloche d'Or,"Française, Européenne","Dîner, Boissons",75009
+812,La Fresque,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",00
+813,Le Grand Pan,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",75015
+814,Restaurant Obrigado Paris,Végétariens bienvenus,"Déjeuner, Dîner",75020
+815,Le Carpaccio,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75008
+816,L'Ilot Vache,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75004
+817,Couscous Deli,"Tunisienne, Africaine, Fusion, Algérien","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75011
+818,Siamsa,"Française, Européenne, Moderne","Végétariens bienvenus, Choix végétaliens",75011
+819,Chez Pierrot,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75002
+820,Restaurant Sur la Braise,"Steakhouse, Barbecue/Grillades, Argentine, Française, Grillades","Déjeuner, Dîner",75006
+821,Louise Café,Végétariens bienvenus,"Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard",75001
+822,L'Epigramme,Française,"Végétariens bienvenus, Plats sans gluten",75006
+823,Creperie de Pontivy,"Française, Européenne","Choix végétaliens, Végétariens bienvenus",75015
+824,Monjul,"Française, Européenne, Saine, Moderne, Fusion","Végétariens bienvenus, Choix végétaliens",75004
+825,Pascade,"Française, Européenne",Végétariens bienvenus,75002
+826,Le Villaret,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75011
+827,Le Picotin,"Française, Européenne",Végétariens bienvenus,75012
+828,Les Saisons,Française,Végétariens bienvenus,52
+829,Au Bouquet St. Paul,"Française, Café",Végétariens bienvenus,75004
+830,Moonshiner,"Dîner, Ouvert tard, Boissons","Places assises, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table",75011
+831,Baosian,"Asiatique, Thaï, Fusion, Vietnamienne","Végétariens bienvenus, Choix végétaliens",75009
+832,Asia Bo bun,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Ouvert tard, Boissons",75011
+833,Zen,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner",75001
+834,SAaM,"Asiatique, Coréenne","Végétariens bienvenus, Choix végétaliens",59
+835,La Place Royale,Française,"Végétariens bienvenus, Plats sans gluten",75004
+836,Chez Fernand,"Française, Européenne","Déjeuner, Dîner, Boissons",75006
+837,Little Red Door,"Sert de l'alcool, Wi-Fi gratuit, Places assises, Bar complet, Bières & Vins, Mastercard acceptée, Visa acceptée, Accepte les cartes bancaires, Service de table","Sert de l'alcool, Wi-Fi gratuit, Places assises, Bar complet, Bières & Vins, Mastercard acceptée, Visa acceptée, Accepte les cartes bancaires, Service de table",75003
+838,The Frog and Princess,"Bar, Pub, Bar à bières",Végétariens bienvenus,75006
+839,Camélia,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard",51
+840,Ten Chi Sun,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75014
+841,Via Del Campo,"Italienne, Méditerranéenne, Sarde, Italie du Sud",Végétariens bienvenus,75007
+842,La Bringue,Végétariens bienvenus,"Déjeuner, Dîner",75010
+843,L'Ambre Bar,"Réservations, Places assises, Sert de l'alcool, Bar complet, Service de table","Réservations, Places assises, Sert de l'alcool, Bar complet, Service de table",75017
+844,Pain Vin Fromage,"Française, Européenne, Europe centrale",Végétariens bienvenus,75004
+845,Crêpe Avenue,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75008
+846,Le Sergent Recruteur,"Française, Européenne",Végétariens bienvenus,75004
+847,Spezia Piadina & Co,"Italienne, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens",75008
+848,Au Bougnat,Française,Végétariens bienvenus,75004
+849,Le Bon Georges,"Française, Européenne","Déjeuner, Dîner",75009
+850,Le Coq et l'Elephant,"Déjeuner, Dîner","Réservations, Places assises, Sert de l'alcool, Service de table",75005
+851,Le Mesturet,"Française, Européenne, Saine","Végétariens bienvenus, Choix végétaliens",77
+852,Bistro des Augustins,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Brunch, Ouvert tard",75006
+853,La Crêperie d'Arnaud,"Déjeuner, Dîner","Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75019
+854,O’Riz Blanc,"Asiatique, Thaï, Vietnamienne, Chinoise","Végétariens bienvenus, Choix végétaliens",75011
+855,Bistrot du Sommelier,"Française, Européenne, Brasserie gastronomique",Plats sans gluten,75008
+856,Le Sot L'y Laisse,"Déjeuner, Dîner","Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table",70
+857,Semilla,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",54
+858,Chez Fernand Christine,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75006
+859,Evi Evane,"Méditerranéenne, Européenne, Grecque","Végétariens bienvenus, Choix végétaliens",75006
+860,Xin Gainian,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard, Boissons",55
+861,Mariage Freres,Végétariens bienvenus,"Petit déjeuner, Déjeuner, Brunch",75004
+862,Automne,Française,"Déjeuner, Dîner",75011
+863,Schwartz's Deli,"Végétariens bienvenus, Casher","Déjeuner, Dîner, Brunch, Ouvert tard",75004
+864,La Brigout,"Française, Européenne",Végétariens bienvenus,54
+865,Détour,Végétariens bienvenus,"Déjeuner, Dîner",75009
+866,En attendant l'Or,"Française, Européenne",Végétariens bienvenus,75011
+867,Minori,"Japonaise, Sushi, Asiatique","Végétariens bienvenus, Choix végétaliens",75004
+868,L'Encrier,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",55
+869,La Taverne de Montmartre,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75018
+870,Le Saigon d'Antan,"Asiatique, Vietnamienne, Internationale","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75006
+871,LE LOUVRE RIPAILLE,"Française, Européenne",Végétariens bienvenus,75001
+872,Les Affranchis,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",75009
+873,Certa,"Végétariens bienvenus, Choix végétaliens","Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard",75008
+874,Le Joy,Végétariens bienvenus,"Petit déjeuner, Déjeuner, Dîner, Brunch",75008
+875,Le 39V,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75008
+876,La robe de la Girafe,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75011
+877,Chez Jaafar,"Méditerranéenne, Moyen-Orient, Tunisienne","Végétariens bienvenus, Choix végétaliens, Halal",75005
+878,Pizza Amalfi,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75015
+879,Le Coq & Fils - The Poultry House,"Française, Saine","Déjeuner, Dîner, Ouvert tard",75018
+880,Louie Louie,Végétariens bienvenus,"Déjeuner, Dîner",78
+881,Violetta et Alfredo - Salon de thé,"Française, Internationale, Espagnole",Végétariens bienvenus,75009
+882,L'Alivi,"Française, Méditerranéenne, Européenne",Végétariens bienvenus,75004
+883,Le Centenaire,Végétariens bienvenus,"Déjeuner, Dîner, Brunch, Ouvert tard",04
+884,Fulgurances L'adresse,"Déjeuner, Dîner","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75011
+885,SOYA,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Brunch, Ouvert tard",75011
+886,Les Jardins de Shah Jahan,Indienne,"Végétariens bienvenus, Choix végétaliens",79
+887,La Truffière,"Française, Européenne, Moderne","Déjeuner, Dîner, Boissons",75005
+888,Korean Barbecue Champs-Elysées,"Barbecue/Grillades, Asiatique, Grillades","Déjeuner, Dîner",75008
+889,Organisation Des Burgers Unis,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",00
+890,Soon Restaurant,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Boissons",75008
+891,Monteverdi,"Italienne, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75006
+892,La Marine,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Brunch, Ouvert tard, Boissons",55
+893,Les Grands Enfants,"Française, Européenne","Végétariens bienvenus, Halal",75020
+894,Restaurant Niebe,Brésilienne,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75006
+895,La Petite Chaise,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75007
+896,Crêperie le petit Josselin,Française,Végétariens bienvenus,59
+897,EV Brochettes & Mezzes,"Turque, Grecque, Méditerranéenne, Cuisine de rue (street food)","Végétariens bienvenus, Choix végétaliens",54
+898,Prosper et Fortunee,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner",50
+899,Le Percolateur,"Française, Européenne",Végétariens bienvenus,75008
+900,Hugo&Co,"Française, Européenne","Française, Européenne",75005
+901,Hoppy Corner,"Pub, Bar","Ouvert tard, Boissons",75002
+902,Aux Anysetiers Du Roy Restaurant,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard, Boissons",75004
+903,Laïa,"Italienne, Barbecue/Grillades, Espagnole, Saine, Française","Déjeuner, Dîner, Ouvert tard, Boissons",75011
+904,Le Sirocco,"Africaine, Marocaine, Méditerranéenne, Moyen-Orient","Végétariens bienvenus, Choix végétaliens, Halal",75013
+905,La Crêperie,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75008
+906,Le Point Zero,"Bar à vins, Française, Bar, Brasserie gastronomique",Végétariens bienvenus,75002
+907,Mé Miam,Végétariens bienvenus,"Déjeuner, Dîner",
+908,L'Ami Jean,"Française, Européenne, Brasserie gastronomique","Déjeuner, Dîner, Ouvert tard",75007
+909,Le Sarrasin et le Froment Creperie,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",
+910,Le Scheffer,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75116
+911,Il Bacaro,Italienne,Végétariens bienvenus,75011
+912,Chez Denise,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table, American Express acceptée, Mastercard acceptée",75001
+913,Pomze,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",09
+914,Pot O Lait,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner",75005
+915,Pizzeria Popolare,"Italienne, Pizza, Méditerranéenne, Européenne, Napolitaine, Campanie, Italie du Sud",Végétariens bienvenus,75002
+916,Rivoluzione - Cantine Italienne,"Italienne, Pizza, Cuisine de rue (street food)",Végétariens bienvenus,75011
+917,Il Quadrifoglio,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner",75004
+918,Creperie Bretonne Fleurie,Française,Végétariens bienvenus,75011
+919,Tien Hiang,"Chinoise, Asiatique, Thaï, Vietnamienne, Fusion","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75010
+920,Dads Den,"Française, Steakhouse, Bar à vins, Européenne","Dîner, Déjeuner",75004
+921,La Table Libanaise,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner",75015
+922,Bistro Volnay,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75002
+923,Alchimie,"Terrasse, Places assises, Wi-Fi gratuit, Service de table, Accès personnes handicapées","Terrasse, Places assises, Wi-Fi gratuit, Service de table, Accès personnes handicapées",75014
+924,Le Chalet Savoyard,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard, Boissons",58
+925,Les Darons,"Déjeuner, Dîner, Ouvert tard, Boissons","Réservations, Terrasse, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table",04
+926,Poulette,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75001
+927,Iovine's,"Pizza, Napolitaine, Campanie, Italie du Sud","Végétariens bienvenus, Choix végétaliens",7Bis
+928,Gabylou,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Brunch, Boissons",75017
+929,ParisFeni,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner",75011
+930,Chez Neung,"Asiatique, Thaï","Végétariens bienvenus, Choix végétaliens",70
+931,ISANA,"Mexicaine, Péruvienne, Latino, Argentine, Amérique centrale","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75009
+932,Rumeurs,"Française, Méditerranéenne, Européenne, Espagnole, Bar à vins","Déjeuner, Dîner, Brunch",75005
+933,Mariage Frères,"Petit déjeuner, Déjeuner, Brunch","Réservations, Places assises, Service de table",75006
+934,Blossom,"Française, Moderne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75008
+935,L'Homme Bleu,"Marocaine, Méditerranéenne, Africaine, Moyen-Orient","Végétariens bienvenus, Choix végétaliens, Halal",55
+936,Restaurant Victor,Française,Végétariens bienvenus,01
+937,L'agrume,"Française, Européenne",Végétariens bienvenus,75005
+938,Chez Alain Miam Miam,"Végétariens bienvenus, Choix végétaliens",Déjeuner,75003
+939,Milo,"Italienne, Pizza, Méditerranéenne","Végétariens bienvenus, Choix végétaliens",75001
+940,Rooster par Frédéric Duca,"Française, Philippine, Européenne","Déjeuner, Dîner",75017
+941,L'Assiette,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",75014
+942,La Famiglia,"Italienne, Méditerranéenne, Européenne, Napolitaine, Campanie, Italie du Sud","Végétariens bienvenus, Choix végétaliens",75017
+943,Les Fauves,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75014
+944,Auberge de la Reine Blanche,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table, Chèques-cadeaux disponibles",75004
+945,Le Crabe Marteau,Plats sans gluten,"Déjeuner, Dîner, Ouvert tard",75017
+946,Le Bastringue,"Française, Bar, Européenne","Végétariens bienvenus, Choix végétaliens",75019
+947,L'Iliade,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",59
+948,IL Gigolo,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75005
+949,Afaria,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",75015
+950,La Corte,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75001
+951,Allo Tandoori,Végétariens bienvenus,"Déjeuner, Dîner",75018
+952,Académie de la bière,"Française, Belge, Bar, Européenne, Pub",Végétariens bienvenus,75005
+953,Kushikatsu Bon,"Déjeuner, Dîner","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75011
+954,Farago Pintxo Club,"Méditerranéenne, Européenne, Espagnole","Végétariens bienvenus, Choix végétaliens",75010
+955,Pavyllon,"Italienne, Française, Japonaise, Européenne","Déjeuner, Dîner, Ouvert tard, Boissons",75008
+956,Fratelli,"Italienne, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens",75017
+957,BigLove,"Italienne, Pizza, Méditerranéenne, Européenne, Napolitaine, Campanie, Italie du Sud","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75003
+958,Beyit Jedo,"Libanaise, Moyen-Orient","Végétariens bienvenus, Choix végétaliens",75012
+959,Chez Georges,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard, Boissons",75002
+960,Brasserie Baroche,"Française, Bar, Européenne, Brasserie gastronomique","Végétariens bienvenus, Choix végétaliens",01
+961,Chez le Libanais,"Végétariens bienvenus, Choix végétaliens, Halal","Déjeuner, Dîner, Ouvert tard",75006
+962,Chez Nenesse,"Déjeuner, Dîner","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75003
+963,Simonetta Restaurant,"Italienne, Pizza, Méditerranéenne, Européenne, Napolitaine, Campanie, Italie du Sud","Végétariens bienvenus, Choix végétaliens",75019
+964,Aux Artistes,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75015
+965,Le P'tit Bréguet,Française,"Déjeuner, Dîner, Ouvert tard",75011
+966,Le Robinet d'Or,"Française, Européenne",Végétariens bienvenus,75010
+967,Le Parc Aux Cerfs,"Française, Européenne, Brasserie gastronomique","Déjeuner, Dîner, Ouvert tard",50
+968,Gandhi Ji's,Indienne,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75009
+969,La Contre-Allée,"Française, Européenne, Brasserie gastronomique",Végétariens bienvenus,75014
+970,Clamato,Plats sans gluten,"Déjeuner, Dîner, Ouvert tard",75011
+971,Le Cafe Jacquemart-Andre,"Française, Café, Européenne","Végétariens bienvenus, Choix végétaliens",58
+972,Les Canailles Ménilmontant,Française,"Déjeuner, Dîner",75020
+973,Matsuhisa Paris,"Japonaise, Asiatique, Saine","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75008
+974,Cafe de la Regence,"Végétariens bienvenus, Choix végétaliens","Petit déjeuner, Déjeuner, Dîner, Brunch",75001
+975,New Jawad,"Indienne, Asiatique, Saine, Pakistanaise","Végétariens bienvenus, Choix végétaliens, Halal, Plats sans gluten",75007
+976,Le Fumoir,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Brunch, Ouvert tard, Boissons",75001
+977,le Trumilou,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75004
+978,La Poulette de Grain,"Déjeuner, Dîner, Brunch","Réservations, Terrasse, Places assises, Chaises hautes disponibles, Accès personnes handicapées, Sert de l'alcool, Bar complet, Wi-Fi gratuit, Accepte les cartes bancaires, Service de table",75011
+979,Lou tiap,"Déjeuner, Dîner","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75020
+980,Au Petit Riche,"Française, Européenne",Végétariens bienvenus,75009
+981,Le Mathusalem,"Déjeuner, Dîner","Réservations, Terrasse, Places assises, Service de voiturier, Accès personnes handicapées, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table",75016
+982,Makham Thaï,"Thaï, Asiatique",Végétariens bienvenus,75009
+983,Su Misura,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner",75007
+984,O Corcovado,"Sud-américaine, Brésilienne, Latino","Boissons, Déjeuner, Dîner",52
+985,Abydoise,"Française, Européenne","Déjeuner, Dîner",75017
+986,Kintaro,"Japonaise, Sushi, Asiatique",Végétariens bienvenus,06
+987,Les Petits Pois,"Française, Européenne","Déjeuner, Dîner, Brunch",75005
+988,Tzeferakos,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75005
+989,Soon Grill,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",78
+990,Le Fusain - FERMÉ,"Française, Européenne, Bar à vins","Brunch, Dîner, Boissons",75018
+991,Gaston,"Déjeuner, Dîner","Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75017
+992,Septime,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75011
+993,Shu,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75006
+994,Piccolo Caratello,Italienne,"Végétariens bienvenus, Choix végétaliens",75018
+995,Mi Ranchito Paisa,"Latino, Colombienne",Végétariens bienvenus,75009
+996,MoSuke,"Déjeuner, Dîner","Réservations, Places assises, Sert de l'alcool, Service de table",75014
+997,Le Coupe-Chou,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75005
+998,Le 52,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",52
+999,Clover Green,Végétariens bienvenus,"Déjeuner, Dîner",75007
+1000,L'Office,"Française, Moderne, Diner, Brasserie gastronomique","Française, Moderne, Diner, Brasserie gastronomique",75009
+1001,Il Duca,"Choix végétaliens, Végétariens bienvenus","Déjeuner, Dîner, Ouvert tard",75018
+1002,Hakata Ramen Choten,Végétariens bienvenus,"Déjeuner, Dîner",53
+1003,LE PIED DE FOUET,Végétariens bienvenus,Dîner,75007
+1004,Le Chanard,"Française, Européenne",Végétariens bienvenus,75004
+1005,Restaurant Caillebotte,"Française, Européenne","Déjeuner, Dîner",75009
+1006,5 Pailles,"Européenne, Moderne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",79
+1007,L'Absinthe,"Française, Moderne, Européenne","Végétariens bienvenus, Choix végétaliens",75001
+1008,Lithang,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75005
+1009,O Fil Rouge,"Française, Européenne","Déjeuner, Dîner",75015
+1010,Les Marmites de Fa,Africaine,"Déjeuner, Dîner",75009
+1011,Kintaro Ramen,"Japonaise, Asiatique, Saine","Végétariens bienvenus, Choix végétaliens",75002
+1012,Les Fabricants,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75011
+1013,Café Antonia,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75008
+1014,Chouette,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75020
+1015,Josephine Chez Dumonet,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75006
+1016,Cafe de la Butte,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",71
+1017,Ristorante Garum,Choix végétaliens,"Déjeuner, Dîner",75011
+1018,L'Arpège,"Française, Européenne, Saine","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75007
+1019,A Deux Pas,"Déjeuner, Dîner","Réservations, Places assises, Sert de l'alcool, Service de table",55
+1020,Prive de dessert Aligre,Française,"Végétariens bienvenus, Plats sans gluten",75012
+1021,La Table d'Aligre,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75012
+1022,Village Ung,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75008
+1023,Venezia,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75012
+1024,Distrito Frances,"Mexicaine, Latino, Amérique centrale","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75010
+1025,Benedict,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Brunch, Ouvert tard",75004
+1026,Le Petit Broc',Végétariens bienvenus,"Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard",06
+1027,Camille,Végétariens bienvenus,"Déjeuner, Dîner, Brunch, Ouvert tard",75003
+1028,Balagan,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75001
+1029,Le Petit Villiers,"Française, Européenne","Déjeuner, Dîner, Ouvert tard, Boissons",75
+1030,La Favorite Turbigo,"Française, Bar, Moderne, Bars-restaurants",Végétariens bienvenus,75
+1031,Ristorante Tosca,Italienne,"Végétariens bienvenus, Choix végétaliens",75008
+1032,Piccola Roma,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75116
+1033,Le Bistrot des Vignes,"Française, Européenne",Végétariens bienvenus,75016
+1034,Patita Negra,"Espagnole, Méditerranéenne","Déjeuner, Dîner",75004
+1035,Fenêtre sur Cour,"Bar à bières, Diner, Brasserie gastronomique, Française, Américaine, Européenne","Végétariens bienvenus, Choix végétaliens",75012
+1036,La Maison de Verlaine,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",75005
+1037,L'Orangerie,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard, Boissons",75004
+1038,Boulom,"Végétariens bienvenus, Choix végétaliens","Petit déjeuner, Déjeuner, Dîner, Brunch",75018
+1039,La Comète,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75011
+1040,Oh ! Popotes,Française,"Déjeuner, Dîner",75015
+1041,Karamna,"Libanaise, Méditerranéenne, Barbecue/Grillades, Traiteur, Moyen-Orient","Végétariens bienvenus, Choix végétaliens",77
+1042,Gallery Café Aux Arts Etc,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75005
+1043,Fellini,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75001
+1044,Bonjour vietnam,"Asiatique, Vietnamienne","Végétariens bienvenus, Choix végétaliens",75005
+1045,Saudade,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75001
+1046,Le Berry,Française,"Déjeuner, Dîner",75017
+1047,Mystery Cuisine,Dîner,"Réservations, Salle privée, Places assises, Sert de l'alcool",75001
+1048,TUK TUK : Thai Street Food,Thaï,"Végétariens bienvenus, Plats sans gluten",75008
+1049,Café des Musées,Française,"Végétariens bienvenus, Plats sans gluten",75003
+1050,Fajitas,"Mexicaine, Latino, Amérique centrale","Végétariens bienvenus, Choix végétaliens",75006
+1051,Villa Dondelli,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75002
+1052,Opium la Cabane,Plats sans gluten,"Déjeuner, Dîner, Ouvert tard",75006
+1053,Le Comptoir Marrakech,"Déjeuner, Dîner","Réservations, Places assises, Accepte les cartes bancaires, Service de table, Sert de l'alcool",75013
+1054,Le Petit Fer a Cheval,Végétariens bienvenus,"Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard, Boissons",75004
+1055,LE PETIT PRINCE DE PARIS,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75005
+1056,Bugsy's,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard, Boissons",75008
+1057,La Cidrerie du Marais,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75004
+1058,Pom'Cannelle,Végétariens bienvenus,"Petit déjeuner, Déjeuner, Dîner, Brunch",75004
+1059,Le Saint Régis,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard, Boissons",75004
+1060,Libertino,"Déjeuner, Dîner","Plats à emporter, Réservations, Places assises, Sert de l'alcool, Bar complet, Service de table",75010
+1061,Visconti,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75008
+1062,LiLi,"Choix végétaliens, Plats sans gluten","Déjeuner, Dîner",75116
+1063,Le Beurre Noisette,"Déjeuner, Dîner, Ouvert tard","Réservations, Salle privée, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75015
+1064,Selva,"Péruvienne, Latino, Moderne, Brasserie gastronomique, Sud-américaine, Colombienne, Amérique centrale","Déjeuner, Dîner",75005
+1065,Un Jour à Peyrassol,Végétariens bienvenus,"Déjeuner, Dîner",75002
+1066,La Causerie,"Française, Européenne","Déjeuner, Dîner",75116
+1067,Vin et Marée Suffren Ecole Militaire,"Française, Fruits de mer & Poisson, Européenne",Végétariens bienvenus,71
+1068,Bistrot Papillon,"Déjeuner, Dîner","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75009
+1069,Pedzouille La Grange,"Déjeuner, Dîner","Réservations, Places assises, Service de table",75015
+1070,La Crème de Paris,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75009
+1071,Regno di Napoli,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75012
+1072,Le Verre Moutarde,"Française, Européenne",Végétariens bienvenus,75017
+1073,Le Coin,"Déjeuner, Dîner, Ouvert tard, Boissons","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table",75008
+1074,Maceo,"Choix végétaliens, Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard, Boissons",75001
+1075,Au 35,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75006
+1076,L'Auberge Aveyronnaise,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",75012
+1077,Au Coin des Gourmets,"Asiatique, Vietnamienne, cambodgienne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75001
+1078,Happy Nouilles,"Chinoise, Asiatique, Soupes","Végétariens bienvenus, Choix végétaliens",75003
+1079,Visconti,Végétariens bienvenus,"Déjeuner, Dîner",75008
+1080,Les Rillettes,"Dîner, Déjeuner, Ouvert tard","Réservations, Places assises, Sert de l'alcool, Service de table",75009
+1081,Cristal Room Baccarat,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75116
+1082,La Recoleta,"Steakhouse, Latino, Argentine","Déjeuner, Dîner",75017
+1083,L'Ourcine,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",75013
+1084,Le Suffren,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard",75015
+1085,LYNA Ristorante,"Italienne, Romana, Latium, Sicilienne, Italie du Nord, Italie du Centre, Italie du Sud","Végétariens bienvenus, Choix végétaliens",75017
+1086,Ma Salle a Manger,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75001
+1087,La Boussole,"Française, Européenne, Saine","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75006
+1088,Signature by Pierre Sang,"Française, Coréenne","Déjeuner, Dîner",75011
+1089,Bacco,Végétariens bienvenus,"Déjeuner, Dîner",75015
+1090,Caffe Vito,"Française, Italienne","Végétariens bienvenus, Choix végétaliens",75004
+1091,Fujiyaki japonais,"Japonaise, Asiatique",Végétariens bienvenus,75011
+1092,Aux Ducs de Bourgogne,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Brunch",75007
+1093,Le Cosi,"Française, Méditerranéenne, Européenne","Déjeuner, Dîner, Ouvert tard",75005
+1094,L'Ardoise 86,"Française, Bar, Européenne",Végétariens bienvenus,75004
+1095,Le Petit Cadet,"Française, Bar, Européenne",Végétariens bienvenus,75009
+1096,Bodega 64,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard, Boissons",75004
+1097,Le Bistrot De l'Enfance,"Française, Européenne, Saine, Fruits de mer & Poisson, Moderne","Déjeuner, Dîner, Ouvert tard, Boissons",75006
+1098,T'Cup,Végétariens bienvenus,"Petit déjeuner, Déjeuner, Dîner, Brunch, Boissons",75003
+1099,Chez Nous,"Ouvert tard, Boissons","Places assises, Sert de l'alcool, Service de table",75006
+1100,Le Seraphin,Française,Végétariens bienvenus,75006
+1101,Le Petit Cler,"Végétariens bienvenus, Plats sans gluten","Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard",75007
+1102,Calice Alto,"Italienne, Européenne, Napolitaine, Campanie, Pizza, Pouilles, Italie du Sud","Déjeuner, Dîner, Boissons",75009
+1103,Marrow,Végétariens bienvenus,Dîner,75010
+1104,Chez Papa Bastille,"Française, Européenne",Végétariens bienvenus,75012
+1105,L'Ogre,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table",75016
+1106,Le French Burger,"Américaine, Restauration rapide","Déjeuner, Dîner",75018
+1107,Bistrot Marloe Paris,"Française, Européenne",Végétariens bienvenus,75008
+1108,Mom,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Brunch, Ouvert tard",75017
+1109,Bistrot Beyrouth,Libanaise,"Végétariens bienvenus, Choix végétaliens",03
+1110,Salsamenteria di Parma,"Italienne, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens",75009
+1111,La Divina Commedia,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75006
+1112,Chez Tof,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",75002
+1113,Loulou Restaurant,"Française, Café, Diner, Australienne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75005
+1114,La Bastide d'Opio,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75006
+1115,Seulement Sea,"Française, Fruits de mer & Poisson, Méditerranéenne, Européenne","Déjeuner, Dîner, Boissons",75006
+1116,Les Bombistrot,"Déjeuner, Dîner, Ouvert tard","Réservations, Terrasse, Places assises, Sert de l'alcool, Bar complet, Wi-Fi gratuit, Service de table",75012
+1117,La Maison Bleue,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",75010
+1118,Le Vieux Belleville,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Bar complet, Accepte les cartes bancaires, Service de table, Chèques-cadeaux disponibles",75020
+1119,L'As du Fallafel,"Restauration rapide, Méditerranéenne, Moyen-Orient, Israélienne","Végétariens bienvenus, Choix végétaliens, Casher",75004
+1120,Les Galandines,Végétariens bienvenus,"Petit déjeuner, Déjeuner, Dîner, Brunch",57
+1121,Chez Minnà,"Française, Méditerranéenne",Végétariens bienvenus,75010
+1122,Kitchen,"Américaine, Internationale, Saine, Cuisine de rue (street food)","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",74
+1123,Bistrot Mee,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner",75001
+1124,Ober Mamma,"Italienne, Pizza, Méditerranéenne, Européenne, Napolitaine, Campanie, Romana, Latium, Italie du Centre, Italie du Sud","Végétariens bienvenus, Choix végétaliens",07
+1125,La Crêperie Bretonne,Végétariens bienvenus,"Déjeuner, Dîner, Boissons, Ouvert tard",56
+1126,Le Petit Italien,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75003
+1127,Le Petit Pergolèse,"Déjeuner, Dîner, Ouvert tard","Réservations, Salle privée, Places assises, Service de voiturier, Accès personnes handicapées, Sert de l'alcool, Wi-Fi gratuit, Accepte les cartes bancaires, Service de table",75116
+1128,Les Cartes Postales,"Déjeuner, Dîner","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75001
+1129,Felix,"Française, Européenne","Végétariens bienvenus, Plats sans gluten",79
+1130,Happa Tei,Végétariens bienvenus,"Déjeuner, Dîner",75002
+1131,La Vigne Saint Laurent,"Déjeuner, Dîner","Réservations, Places assises, Sert de l'alcool, Service de table",75010
+1132,Les Artistes,"Brasserie gastronomique, Bar, Européenne","Végétariens bienvenus, Choix végétaliens",75014
+1133,Les Crocs,"Italienne, Pizza, Méditerranéenne, Européenne","Végétariens bienvenus, Choix végétaliens",75012
+1134,Plein Ouest,"Française, Fruits de mer & Poisson, Européenne","Déjeuner, Dîner, Boissons",75009
+1135,Le Moulin de la galette,Française,Végétariens bienvenus,75018
+1136,Ozio,"Italienne, Pizza","Végétariens bienvenus, Choix végétaliens",75116
+1137,Via Mela,Végétariens bienvenus,"Déjeuner, Dîner",75009
+1138,La Luna,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75008
+1139,Le Restaurant ERH,"Européenne, Française","Déjeuner, Dîner",75002
+1140,La Maison du Dim Sum,"Déjeuner, Dîner, Ouvert tard","Plats à emporter, Réservations, Buffet, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75005
+1141,Esens'All,"Française, Européenne, Fusion","Dîner, Ouvert tard",75017
+1142,le Diamant de Paris,"Méditerranéenne, Française, Européenne",Végétariens bienvenus,59
+1143,La Cuisine - Le Royal Monceau,"Française, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75008
+1144,le Richer,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75009
+1145,"Le Lobby Restaurant, The Peninsula Paris","Française, Européenne, Internationale","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75116
+1146,L'Ardoise,"Végétariens bienvenus, Plats sans gluten","Déjeuner, Dîner, Ouvert tard",75001
+1147,brEAThe,"Française, Américaine, Asiatique, Thaï, Européenne",Choix végétaliens,75009
+1148,Guillaume Grasso la Vera pizza napoletana,Végétariens bienvenus,"Déjeuner, Dîner",75015
+1149,Champa Lao,"Asiatique, Thaï","Végétariens bienvenus, Choix végétaliens",75015
+1150,Legrand Filles et Fils,"Déjeuner, Boissons","Réservations, Terrasse, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75002
+1151,La Poutinerie,"Canadienne, Cuisine de rue (street food)","Déjeuner, Dîner, Boissons",75010
+1152,Villa Punjab Gastronomie Indienne,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75017
+1153,Schwartz's,"Végétariens bienvenus, Casher","Déjeuner, Dîner, Brunch, Ouvert tard",75016
+1154,Au Moulin a Vent Chez Henri,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75005
+1155,A Noste,"Française, Européenne, Espagnole",Végétariens bienvenus,75002
+1156,L'Envers du Décor,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard, Boissons",70
+1157,Numero 41,Végétariens bienvenus,"Déjeuner, Dîner, Brunch",75016
+1158,BOULETTES Chef comptoir,"Française, Européenne","Végétariens bienvenus, Choix végétaliens",79
+1159,L'Orange Verte,Végétariens bienvenus,"Déjeuner, Dîner",75010
+1160,Etsi,"Méditerranéenne, Grecque","Végétariens bienvenus, Choix végétaliens",75018
+1161,Le Petit Vendome,"Française, Européenne","Déjeuner, Dîner, Boissons",75002
+1162,Les Foodies,"Italienne, Française, Fusion, Moderne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75004
+1163,La Ravigote,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75011
+1164,Gabia,"Française, Européenne","Déjeuner, Dîner",77
+1165,Le Petit Sommelier,"Française, Européenne, Bar à vins","Déjeuner, Dîner, Ouvert tard, Boissons",75014
+1166,TournBride,"Fujian, Française",Végétariens bienvenus,04
+1167,Page 35,"Française, Européenne, Brasserie gastronomique",Végétariens bienvenus,75003
+1168,Les Pinces,"Déjeuner, Dîner, Ouvert tard","Service de livraison, Plats à emporter, Réservations, Places assises, Sert de l'alcool, Bières & Vins, American Express acceptée, Mastercard acceptée, Visa acceptée, Wi-Fi gratuit, Discover acceptée, Accepte les cartes bancaires, Service de table",75004
+1169,La Rotonde,Végétariens bienvenus,"Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard",05
+1170,Le Dan Bau,"Végétariens bienvenus, Choix végétaliens","Dîner, Boissons",75018
+1171,La Fabbrica,"Italienne, Méditerranéenne, Européenne",Végétariens bienvenus,75017
+1172,l'Escient,"Française, Européenne, Moderne","Déjeuner, Dîner",75017
+1173,Au Bascou,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75003
+1174,L' Echappée,Végétariens bienvenus,"Déjeuner, Dîner",75020
+1175,Zincou Vins & Tapas,"Française, Européenne, Saine, Bar à vins","Déjeuner, Dîner, Boissons",50
+1176,Le Perroquet Vert,"Déjeuner, Dîner, Ouvert tard","Places assises, Réservations, Accès personnes handicapées, Service de table",75018
+1177,Les Pipos,"Française, Européenne, Bar à vins",Végétariens bienvenus,75005
+1178,Chez Pradel Bastille,Française,"Déjeuner, Dîner",75011
+1179,L'inconnu,"Déjeuner, Dîner","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Service de table",75007
+1180,Restaurant Belle Maison,"Fruits de mer & Poisson, Européenne, Française","Déjeuner, Dîner",75009
+1181,Le Grenier de Notre Dame,"Française, Européenne, Saine","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75005
+1182,Le Cotte Rôti,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75012
+1183,Ida,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75015
+1184,La Porteña,Végétariens bienvenus,"Déjeuner, Dîner",75018
+1185,Abyssinia,"Africaine, Éthiopienne",Végétariens bienvenus,75020
+1186,Brasserie du Louvre - Bocuse,Française,Végétariens bienvenus,75001
+1187,Le Bosquet,"Française, Européenne",Végétariens bienvenus,75007
+1188,Matsuyama,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Déjeuner, Dîner, Boissons, Ouvert tard",55
+1189,Le Poincaré,Végétariens bienvenus,"Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard, Boissons",75116
+1190,Capucine Café La Brasserie,"Française, Européenne, Brasserie gastronomique",Végétariens bienvenus,75002
+1191,Chez Janou,Végétariens bienvenus,"Déjeuner, Dîner, Ouvert tard",75003
+1192,La Table Des Anges,"Française, Européenne, Brasserie gastronomique",Végétariens bienvenus,75009
+1193,Chez Leveque,"Déjeuner, Dîner","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Terrasse, Service de table",75005
+1194,Dosanko,Végétariens bienvenus,"Déjeuner, Dîner",75002
+1195,Privé de Dessert,"Française, Européenne",Végétariens bienvenus,75009
+1196,Entre les Vignes,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",75012
+1197,Le Valois,"Française, Bar, Européenne, Pub","Végétariens bienvenus, Choix végétaliens",75008
+1198,Schwartz's Deli,"Française, Diner",Végétariens bienvenus,75017
+1199,58 Tour Eiffel,"Française, Européenne, Moderne",Végétariens bienvenus,75007
+1200,BEM - le Bistrot d’Eleonore et Maxence,Végétariens bienvenus,"Déjeuner, Dîner, Brunch, Ouvert tard, Boissons",75007
+1201,Café des Anges,"Française, Bar, Café, Européenne","Végétariens bienvenus, Choix végétaliens, Plats sans gluten",75011
+1202,HD Diner Châtelet,"Végétariens bienvenus, Choix végétaliens","Petit déjeuner, Déjeuner, Dîner, Brunch, Boissons, Ouvert tard",75001
+1203,Restaurant Pompei,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner, Ouvert tard",75008
+1204,PNY Oberkampf,Américaine,Végétariens bienvenus,75011
+1205,Beccuti Bar,"Végétariens bienvenus, Choix végétaliens","Petit déjeuner, Déjeuner, Dîner, Brunch",75001
+1206,Abri,"Déjeuner, Dîner","Réservations, Places assises, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75010
+1207,Udon Bistro Kunitoraya,"Japonaise, Asiatique, Soupes","Végétariens bienvenus, Choix végétaliens",75001
+1208,L'Entredgeu,"Déjeuner, Dîner, Ouvert tard","Réservations, Places assises, Accès personnes handicapées, Sert de l'alcool, Accepte les cartes bancaires, Service de table",75017
+1209,A Cursita,Végétariens bienvenus,"Déjeuner, Dîner",55
+1210,Mieux,"Française, Européenne, Bar à bières","Déjeuner, Dîner, Boissons",75009
+1211,Les Toqués,Française,Végétariens bienvenus,75018
+1212,Le Chardenoux,"Française, Saine","Déjeuner, Dîner, Ouvert tard",75011
+1213,Le Paris Montparnasse,"Végétariens bienvenus, Choix végétaliens, Plats sans gluten","Petit déjeuner, Déjeuner, Dîner, Brunch, Boissons, Ouvert tard",75014
+1214,Le Cardinal,Végétariens bienvenus,"Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard",75016
+1215,Bouillon Chartier Montparnasse,Française,"Déjeuner, Dîner",59
+1216,Alix et Mika,Française,"Végétariens bienvenus, Plats sans gluten",75018
+1217,Le Petit Vatel,"Française, Européenne, Méditerranéenne",Végétariens bienvenus,75006
+1218,L'Atypic,"Française, Européenne","Déjeuner, Dîner",51
+1219,Gaya,"Française, Européenne",Végétariens bienvenus,75007
+1220,Enyaa,"Japonaise, Asiatique",Végétariens bienvenus,75001
+1221,Yasmin,"Végétariens bienvenus, Choix végétaliens, Halal","Déjeuner, Dîner, Ouvert tard",71
+1222,Le Café Blanc,"Végétariens bienvenus, Choix végétaliens","Petit déjeuner, Déjeuner, Dîner, Brunch, Ouvert tard, Boissons",75001
+1223,Restaurant La Gauloise,Française,Végétariens bienvenus,59
+1224,PNY FBG ST-DENIS,Américaine,Végétariens bienvenus,50
+1225,HANOI CAPHE,"Végétariens bienvenus, Choix végétaliens","Déjeuner, Dîner",75009
+1226,La Regalade Saint-Honore,"Française, Européenne","Déjeuner, Dîner, Ouvert tard",06
+1227,Willi's Wine Bar,"Française, Européenne, Bar à vins, Brasserie gastronomique",Végétariens bienvenus,75001
+1228,Gambino,"Italienne, Pizza, Européenne, Toscane, Sicilienne, Italie du Centre, Italie du Sud","Végétariens bienvenus, Choix végétaliens",75001
+1229,Clark Hot Dog,Restauration rapide,"Déjeuner, Dîner, Ouvert tard, Boissons",75004
