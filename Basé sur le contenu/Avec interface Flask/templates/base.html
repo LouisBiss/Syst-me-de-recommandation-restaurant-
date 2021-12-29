@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/style/main2.css">
+</head>
+<body>
+
+    <form action="/send" method="POST">
+        <div class="recherche">
+            <div class="case case_1">
+                <div class="label_box label_box_1">
+                    <label for="Resto_Input">Exemple de Restaurant déjà fréquenté</label>
+                </div>
+                <div class="input_box input_box_1">
+                    <input type="text" name="resto_input">
+                </div>
+            </div>
+            
+            <div class="case case_2">
+                 <div class="label_box label_box_2">
+                    <label for="Arr_Input">Lieux</label>
+                </div>
+                <div class="input_box input_box_3">
+                    <select class="menu" name='arr_input'>
+                        <option value="Tout Paris">Tout Paris</option>
+                        <option value="75001">1<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75002">2<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75003">3<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75004">4<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75005">5<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75006">6<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75007">7<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75008">8<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75009">9<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75010">10<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75011">11<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75012">12<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75013">13<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75014">14<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75015">15<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75016">16<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75017">17<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75018">18<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75019">19<sup>er</sup> Arrondissement</sup></option>
+                        <option value="75020">20<sup>er</sup> Arrondissement</sup></option>
+
+                        <!--<option value="divide">Divide</option>-->
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <button class="button" type="submit"><span>Lancer l'analyse</span></button>
+
+    </from>
+        <div class="resultats">
+        
+            
+            {% for i in name_link_list %}
+                <li><a href={{i[1]}} >{{ i[0] }}</a></li> 
+            {% endfor %}
+            
+           
+        </div> 
+
+        
+
+</body>
+</html>
