@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/style/main.css">
+</head>
+<body>
+    <div class="titre">
+        <h3>Recommandation de Restaurant avec Filtrage Collaboratif</h3>
+    </div>
+
+    <div class="main_box">
+        <form action="/send" method="POST">
+            <div class="recherche">
+                <div class="case case_1">
+                    <div class="label_box label_box_1">
+                        <label for="Name_Input">Entrez le nom d'un utilisateur</label>
+                    </div>
+                    <div class="input_box input_box_1">
+                        <input type="text" name="name_input">
+                    </div>
+                
+                
+                </div>
+            </div>
+
+            <button class="button" type="submit"><span>Lancer l'analyse</span></button>
+
+        </from>
+
+        <div class="resultats">
+            <table>
+                
+                <tr>
+                    <th>Restaurant(s) recommendé(s)</th>
+                </tr>
+                
+            
+                    <tr>
+                        <td>{{ a }}</td>
+                    
+                    </tr>
+            </table>
+            
+        </div> 
+    </div>  
+
+        
+
+</body>
+</html>
