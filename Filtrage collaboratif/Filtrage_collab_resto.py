@@ -89,9 +89,8 @@ resue=dfObj.iloc[0]['value']
 
 #création dataframe des résultats
 df_résultats=pd.DataFrame()
-df_résultats['Nom_Resto']=""
 df_résultats['Nom_utilisateur']=""
-df_résultats['note']=""
+df_résultats['resto_reco']=""
 
 #Print the recommended items for each user
 for uid, user_ratings in resu.items():
