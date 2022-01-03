@@ -42,9 +42,18 @@ def selet_top(predictions, n):
 #Reading the dataset
 Data= pd.read_csv('C://Users//louis//Documents//COURS EMSE//Année 5 - Ingé 3//ESME//Système de recommandation//Projet//BDD//avis_notes_resto.csv')
 
+#efface colonne inutile
+Data = Data.drop('Unnamed: 0', 1)
+
+
+#création de colonnes convertissant les valeurs en id unique
+Data['id_utilisateur'] = Data.groupby(Data.Nom_utilisateur.tolist(), sort=False).ngroup() + 1
+Data['id_resto'] = Data.groupby(Data.Nom_Resto.tolist(), sort=False).ngroup() + 1
+
+
 #rating_scale min = 1 et max = 5 de scores 
 reader = Reader(rating_scale=(1, 5))
-Data1 = Dataset.load_from_df(Data[['Nom_utilisateur', 'Nom_Resto', 'note']], reader)
+Data1 = Dataset.load_from_df(Data[['id_utilisateur', 'id_resto', 'note']], reader)
 
 #Splitting the dataset
 trainset, testset = train_test_split(Data1, test_size=0.3,random_state=10)
@@ -71,7 +80,7 @@ for i in range (0,2):
             test_pred
             #evaluate model
             valeur=accuracy.rmse(test_pred, verbose=True)
-            #print("valeur", valeur)
+            print("valeur", valeur)
             top_r = selet_top(test_pred, n=5)
             
             dfObj = dfObj.append({'model': models[i], 'measure': mesure[j], 'k':k, 'resman':valeur, 'value': top_r}, ignore_index=True) #index 0, 1
@@ -89,10 +98,29 @@ resue=dfObj.iloc[0]['value']
 
 #création dataframe des résultats
 df_résultats=pd.DataFrame()
-df_résultats['Nom_utilisateur']=""
+df_résultats['id_utilisateur']=""
 df_résultats['resto_reco']=""
+
+
 
 #Print the recommended items for each user
 for uid, user_ratings in resu.items():
-    print(uid, [iid for (iid, _) in user_ratings])
-    
+    #créer une ligne vide
+    df_résultats.loc[df_résultats.shape[0]] = "" 
+
+    df_résultats['id_utilisateur'].iloc[-1]=uid                      
+    df_résultats['resto_reco'].iloc[-1]=[iid for (iid, _) in user_ratings]                     
+
+    #print(uid, [iid for (iid, _) in user_ratings])
+   
+sub_df=Data[['id_utilisateur','Nom_utilisateur']]
+sub_df['id_utilisateur'].drop_duplicates()
+
+sub_df_2=Data[['id_resto','Nom_Resto']]
+
+df_test = pd.merge(df_résultats, sub_df, left_on='id_utilisateur', right_on='id_utilisateur', how='left')
+ 
+map_dict = dict(zip(sub_df_2.id_resto,sub_df_2.Nom_Resto))
+df_test['nom_resto'] =  df_test['resto_reco'].explode().map(map_dict).groupby(level=0).agg(list)
+   
+df_test.to_csv('reco_resto_utilisateur.csv')
